@@ -1,0 +1,4482 @@
+.componentOperate_titleContentDifficultOperatemain__EAH0k {
+    width: 100%;
+    padding: 2.25rem 2.25rem 2.25rem 10.25rem;
+    background-color: #f5f5f5
+}
+
+.componentOperate_titleContentDifficultOperate__DPxa7 {
+    display: flex;
+    width: 100%;
+    padding-bottom: 3rem
+}
+
+.componentOperate_titleContentDifficultOperateImage___jRmy {
+    width: 50%;
+    padding-right: 3.75rem
+}
+
+.componentOperate_titleContentDifficultOperateBox__yNL7q {
+    width: 50%;
+    padding: 4.25rem 1.5rem 4.25rem 2.25rem
+}
+
+.componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+    font-size: 2.375rem;
+    font-weight: 700;
+    line-height: 2.875rem;
+    color: #2b2b2b;
+    padding-bottom: 1.5rem
+}
+
+.componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+    font-size: 2.375rem;
+    font-weight: 700;
+    line-height: 2.875rem;
+    color: #ef5941
+}
+
+.componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #000;
+    list-style-type: disc;
+    padding-bottom: 1.5rem;
+    margin-left: 1.25rem
+}
+
+.componentOperate_titleContentDifficultOperateSecond__wWmGF {
+    font-size: 2.375rem;
+    font-weight: 700;
+    line-height: 2.875rem;
+    color: #ef5941;
+    padding-bottom: 1.5rem
+}
+
+.componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+    width: 54%;
+    background-color: rgba(239, 86, 65, .16);
+    padding: 1.875rem 1.875rem 3.375rem;
+    border-radius: 2.375rem
+}
+
+.componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 2rem;
+    color: #ef5941;
+    padding-bottom: 1.5rem
+}
+
+.componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+    display: flex;
+    width: 100%
+}
+
+.componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+    width: 50%
+}
+
+.componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+    color: #ef5941;
+    font-weight: 600;
+    margin-right: 3rem
+}
+
+.componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+    color: #2b2b2b
+}
+
+.componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    list-style-type: disc;
+    padding: 0 1rem 1rem 0;
+    margin-left: 1.25rem
+}
+
+.componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+    position: relative;
+    width: 46%;
+    background-color: #ef5941;
+    border-radius: 2.25rem;
+    margin-left: 36px;
+    padding: 3rem 1.875rem 0 0;
+    overflow: hidden
+}
+
+.componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+    width: 100%;
+    height: 420px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding-left: 30px;
+    margin: -68px 0 0 -20px
+}
+
+.componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+    position: absolute;
+    z-index: 99;
+    width: 80%;
+    margin: -38px 48px 0 0
+}
+
+@keyframes componentOperate_moveUpDownBox__Up68N {
+    0% {
+        transform: translateY(0);
+        transform: rotate(14deg)
+    }
+    to {
+        transform: translateY(-24px);
+        transform: rotate(14deg)
+    }
+}
+
+@media only screen and (min-width:344px) and (max-width:600px) {
+    .componentOperate_titleContentDifficultOperatemain__EAH0k {
+        width: 100%;
+        padding: 1rem;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperate__DPxa7 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding-bottom: 1rem
+    }
+    .componentOperate_titleContentDifficultOperateImage___jRmy {
+        width: 100%;
+        padding-right: 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q {
+        width: 100%;
+        padding: 1rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #2b2b2b;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+        font-size: .75rem;
+        line-height: 1.25rem;
+        color: #000;
+        list-style-type: disc;
+        padding-bottom: 1rem;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941;
+        padding-bottom: 1rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+        width: 100%;
+        background-color: rgba(239, 86, 65, .16);
+        padding: 1rem;
+        border-radius: 1rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.5rem;
+        color: #ef5941;
+        padding-bottom: .875rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+        width: 50%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+        color: #ef5941;
+        font-weight: 600;
+        margin-right: 0
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+        color: #2b2b2b
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+        font-size: .75rem;
+        line-height: 1.25rem;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+        position: relative;
+        width: 100%;
+        height: 15rem;
+        background-color: #ef5941;
+        border-radius: 1rem;
+        margin: 1rem 0 0;
+        padding: 6rem 1.875rem 0 0;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        padding-left: 1.875rem;
+        margin: -6rem 0 0 1.875rem;
+        transform: scale(.8)
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+        position: absolute;
+        z-index: 99;
+        width: 80%;
+        margin: -3rem 3rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+        position: relative;
+        width: 80%;
+        background-color: hsla(0, 0%, 100%, .4);
+        padding: 2.25rem;
+        border-radius: 1rem;
+        box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+        zoom: .24;
+        animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+        0% {
+            transform: translateY(0)
+        }
+        to {
+            transform: translateY(-24px)
+        }
+    }
+    .componentOperate_titleContentStoreManagementMain__QaFOT {
+        flex-direction: column;
+        background-color: #183fce;
+        width: 100%;
+        display: flex;
+        padding: .5rem .5rem 9.25rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 {
+        width: 100%;
+        padding: 0 .5rem .5rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 h3 {
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.5rem;
+        color: #fff;
+        padding: 1rem 1.25rem .875rem 0
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 ul li {
+        font-size: .875rem;
+        line-height: 1.25rem;
+        color: #fff;
+        list-style-type: disc;
+        padding: 0 1.5rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentStoreManagementRelative__BDeQa {
+        position: relative;
+        width: 100%
+    }
+    .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 0 -8px
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+        width: 100%;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: hsla(0, 0%, 100%, .86);
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(36px);
+        box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+        width: 33.33%;
+        padding: .675rem;
+        margin: 0 .5rem;
+        border-radius: .75rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+        width: 1.626rem;
+        height: 1.625rem;
+        margin-bottom: .5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+        font-size: .625rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #183fce;
+        text-align: center
+    }
+    .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+        width: 100%;
+        padding: 84px 16px 16px;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+        position: relative;
+        width: 100%;
+        height: 280px;
+        background-color: #ef5941;
+        margin: 0 0 16px;
+        padding: 54px 0 0;
+        border-radius: 26px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+        width: 100%;
+        background-color: rgba(239, 86, 65, .2);
+        padding: 24px 24px 48px;
+        border-radius: 26px;
+        margin: 0 0 16px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #ef5941;
+        padding: 0 68px 12px 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+        font-size: 12px;
+        line-height: 20px;
+        color: #ef5941;
+        list-style-type: disc;
+        padding: 0 16px 8px 0;
+        margin-left: 10px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+        position: absolute;
+        width: 100%;
+        margin-top: 0;
+        display: flex;
+        justify-content: center;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+        width: 74%
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+        position: absolute;
+        width: 100%;
+        margin: 96px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #ef5941;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+        position: relative;
+        width: 100%;
+        background-color: #183fce;
+        padding: 24px 0;
+        border-radius: 26px;
+        overflow: hidden;
+        margin-top: 16px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+        width: 100%;
+        display: flex;
+        padding: 0 24px 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+        width: 50%;
+        font-size: 10px;
+        color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+        text-align: right
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+        width: 100%;
+        background-color: rgba(24, 63, 206, .2);
+        padding: 24px;
+        margin-right: 0;
+        border-radius: 26px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+        width: 50%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #183fce;
+        padding: 0 36px 12px 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+        font-size: 12px;
+        line-height: 20px;
+        color: #183fce;
+        list-style-type: disc;
+        padding: 0 16px 8px 0;
+        margin-left: 10px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        margin: 192px 0 0 -24px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #183fce;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        position: absolute;
+        width: 100%;
+        margin: -120px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+        width: 46%;
+        animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate;
+        z-index: 2
+    }
+    @keyframes componentOperate_moveUpDownBox__Up68N {
+        0% {
+            transform: translateY(0);
+            transform: rotate(14deg)
+        }
+        to {
+            transform: translateY(-24px);
+            transform: rotate(14deg)
+        }
+    }
+    .componentOperate_mainQualityPartnerContent__3vdLv {
+        width: 100%;
+        background-color: #f6f9fc;
+        padding-bottom: 24px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        padding: 36px 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: 700;
+        line-height: 2rem;
+        color: #ef5941;
+        padding-bottom: 1rem
+    }
+    .componentOperate_qualityPartnerContent__4pUVB p {
+        width: 100%;
+        text-align: center;
+        font-size: .75rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #2b2b2b
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        width: 100%;
+        text-align: center;
+        font-size: 68px;
+        line-height: 76px;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 500
+    }
+    .componentOperate_contentQualityPartner__g_Bpj {
+        position: relative;
+        width: 100%;
+        height: 280px;
+        margin-top: 96px;
+        overflow: hidden
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div {
+        position: absolute;
+        width: 100%;
+        margin-top: -128px
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div canvas {
+        width: 1600px;
+        height: 320px
+    }
+    .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+        display: flex;
+        width: 100%;
+        padding: 0 .5rem;
+        margin-top: -400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+        width: 33.33%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: hsla(0, 0%, 100%, .6);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        margin: 8px;
+        padding: 36px 0 48px;
+        border: 1.4px solid #fff;
+        border-radius: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+        width: 120px;
+        height: 120px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+        font-size: .875rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+        font-size: .625rem;
+        line-height: 1.25rem;
+        color: #2b2b2b;
+        padding: .5rem
+    }
+    .componentOperate_mainTablePriceOfShopeeLazada__s9094 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        width: 100%;
+        padding: 1rem
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        font-size: 1.5rem;
+        line-height: 2rem;
+        font-weight: 700;
+        color: #ef5941;
+        padding: 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        font-size: .875rem;
+        line-height: 1.375rem;
+        font-weight: 700;
+        color: #2b2b2b
+    }
+    @media screen and (min-width:430px) {
+        .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+            position: relative;
+            width: 100%;
+            height: 17.5rem;
+            background-color: #ef5941;
+            border-radius: 1rem;
+            margin: 1rem 0 0;
+            padding: 6rem 1.875rem 0 0;
+            overflow: hidden
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+            width: 100%;
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            padding-left: 1.875rem;
+            margin: -4rem 0 0 1.875rem;
+            transform: scale(.8)
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+            position: absolute;
+            z-index: 99;
+            width: 80%;
+            margin: -4.25rem 3rem 0 0
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+            position: relative;
+            width: 72%;
+            background-color: hsla(0, 0%, 100%, .4);
+            padding: 2.25rem;
+            border-radius: 1rem;
+            box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+            zoom: .24;
+            animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+        }
+        @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+            0% {
+                transform: translateY(0)
+            }
+            to {
+                transform: translateY(-24px)
+            }
+        }
+        .componentOperate_titleContentStoreManagementMain__QaFOT {
+            flex-direction: column;
+            background-color: #183fce;
+            width: 100%;
+            display: flex;
+            padding: .5rem .5rem 9.25rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 {
+            width: 100%;
+            padding: 0 .5rem .5rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 h3 {
+            font-size: 1rem;
+            font-weight: 700;
+            line-height: 1.5rem;
+            color: #fff;
+            padding: 1rem 1.25rem .875rem 0
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 ul li {
+            font-size: .875rem;
+            line-height: 1.25rem;
+            color: #fff;
+            list-style-type: disc;
+            padding: 0 1.5rem 1rem 0;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentStoreManagementRelative__BDeQa {
+            position: relative;
+            width: 100%
+        }
+        .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+            position: absolute;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 0 -8px
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+            width: 100%;
+            display: flex;
+            margin-bottom: 16px
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: hsla(0, 0%, 100%, .86);
+            backdrop-filter: blur(36px);
+            -webkit-backdrop-filter: blur(36px);
+            box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+            width: 33.33%;
+            padding: .875rem;
+            margin: 0 .5rem;
+            border-radius: .75rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+            width: 1.626rem;
+            height: 1.625rem;
+            margin-bottom: .5rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+            font-size: .75rem;
+            font-weight: 600;
+            line-height: 1.25rem;
+            color: #183fce;
+            text-align: center
+        }
+    }
+}
+
+@media only screen and (min-width:601px) and (max-width:1180px) {
+    .componentOperate_titleContentDifficultOperatemain__EAH0k {
+        width: 100%;
+        padding: 1rem;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperate__DPxa7 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding-bottom: 1rem
+    }
+    .componentOperate_titleContentDifficultOperateImage___jRmy {
+        width: 100%;
+        padding-right: 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q {
+        width: 100%;
+        padding: 1rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #2b2b2b;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+        font-size: .75rem;
+        line-height: 1.25rem;
+        color: #000;
+        list-style-type: disc;
+        padding-bottom: 1rem;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941;
+        padding-bottom: 1rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+        width: 100%;
+        background-color: rgba(239, 86, 65, .16);
+        padding: 1rem;
+        border-radius: 1rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.5rem;
+        color: #ef5941;
+        padding-bottom: .875rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+        width: 50%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+        color: #ef5941;
+        font-weight: 600;
+        margin-right: 0
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+        color: #2b2b2b
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+        font-size: .75rem;
+        line-height: 1.25rem;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+        position: relative;
+        width: 100%;
+        height: 26.25rem;
+        background-color: #ef5941;
+        border-radius: 1rem;
+        margin: 1rem 0 0;
+        padding: 6rem 1.875rem 0 0;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        padding-left: 1.875rem;
+        margin: -6rem 0 0 1.875rem;
+        transform: scale(.8)
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+        position: absolute;
+        z-index: 99;
+        width: 80%;
+        margin: -2rem 3rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+        position: relative;
+        width: 80%;
+        background-color: hsla(0, 0%, 100%, .4);
+        padding: 2.25rem;
+        border-radius: 1rem;
+        box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+        zoom: .24;
+        animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+        0% {
+            transform: translateY(0)
+        }
+        to {
+            transform: translateY(-24px)
+        }
+    }
+    .componentOperate_titleContentStoreManagementMain__QaFOT {
+        flex-direction: column;
+        background-color: #183fce;
+        width: 100%;
+        display: flex;
+        padding: .5rem .5rem 9.25rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 {
+        width: 100%;
+        padding: 0 .5rem .5rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 h3 {
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.5rem;
+        color: #fff;
+        padding: 1rem 1.25rem .875rem 0
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 ul li {
+        font-size: .875rem;
+        line-height: 1.25rem;
+        color: #fff;
+        list-style-type: disc;
+        padding: 0 1.5rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentStoreManagementRelative__BDeQa {
+        position: relative;
+        width: 100%
+    }
+    .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 0 -8px
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+        width: 100%;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: hsla(0, 0%, 100%, .86);
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(36px);
+        box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+        width: 33.33%;
+        padding: 1rem;
+        margin: 0 .5rem;
+        border-radius: .75rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+        width: 3rem;
+        height: 3rem;
+        margin-bottom: .5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+        font-size: .75rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #183fce;
+        text-align: center
+    }
+    .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+        width: 100%;
+        padding: 108px 24px 16px;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+        position: relative;
+        width: 100%;
+        height: 340px;
+        background-color: #ef5941;
+        margin: 0 0 16px;
+        padding: 54px 0 0;
+        border-radius: 26px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+        width: 100%;
+        background-color: rgba(239, 86, 65, .2);
+        padding: 24px 24px 48px;
+        border-radius: 26px;
+        margin: 0 0 16px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #ef5941;
+        padding: 0 48px 12px 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+        font-size: 12px;
+        line-height: 20px;
+        color: #ef5941;
+        list-style-type: disc;
+        padding: 0 16px 8px 0;
+        margin-left: 10px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+        position: absolute;
+        width: 100%;
+        margin-top: 0;
+        display: flex;
+        justify-content: center;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+        width: 74%
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+        position: absolute;
+        width: 100%;
+        margin: 160px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #ef5941;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+        position: relative;
+        width: 100%;
+        background-color: #183fce;
+        padding: 42px 0 0;
+        border-radius: 26px;
+        overflow: hidden;
+        margin-top: 16px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+        width: 100%;
+        display: flex;
+        padding: 0 24px 12px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+        width: 50%;
+        font-size: 10px;
+        color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+        text-align: right
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+        width: 100%;
+        background-color: rgba(24, 63, 206, .2);
+        padding: 24px;
+        margin-right: 0;
+        border-radius: 26px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+        width: 50%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #183fce;
+        padding: 0 36px 12px 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+        font-size: 12px;
+        line-height: 20px;
+        color: #183fce;
+        list-style-type: disc;
+        padding: 0 16px 8px 0;
+        margin-left: 10px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        margin: 160px 0 0 -24px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #183fce;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        position: absolute;
+        width: 100%;
+        margin: -120px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+        width: 46%;
+        animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate;
+        z-index: 2
+    }
+    @keyframes componentOperate_moveUpDownBox__Up68N {
+        0% {
+            transform: translateY(0);
+            transform: rotate(14deg)
+        }
+        to {
+            transform: translateY(-24px);
+            transform: rotate(14deg)
+        }
+    }
+    .componentOperate_mainQualityPartnerContent__3vdLv {
+        width: 100%;
+        background-color: #f6f9fc;
+        padding-bottom: 24px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        padding: 36px 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: 700;
+        line-height: 2rem;
+        color: #ef5941;
+        padding-bottom: 1rem
+    }
+    .componentOperate_qualityPartnerContent__4pUVB p {
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 2rem;
+        color: #2b2b2b
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        width: 100%;
+        text-align: center;
+        font-size: 68px;
+        line-height: 76px;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 500
+    }
+    .componentOperate_contentQualityPartner__g_Bpj {
+        position: relative;
+        width: 100%;
+        height: 360px;
+        overflow: hidden
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div {
+        position: absolute;
+        width: 100%;
+        margin-top: -68px
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div canvas {
+        width: 1800px;
+        height: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+        display: flex;
+        width: 100%;
+        padding: 0 24px;
+        margin-top: -400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+        width: 33.33%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: hsla(0, 0%, 100%, .6);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        margin: 12px;
+        padding: 48px 0 68px;
+        border: 1.4px solid #fff;
+        border-radius: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+        width: 160px;
+        height: 160px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 28px;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+        font-size: 12px;
+        line-height: 20px;
+        color: #2b2b2b;
+        padding: 12px 12px 0
+    }
+    .componentOperate_mainTablePriceOfShopeeLazada__s9094 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        width: 100%;
+        padding: 1.5rem
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        font-size: 2.375rem;
+        line-height: 2.875rem;
+        font-weight: 700;
+        color: #ef5941;
+        padding: 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        font-weight: 700;
+        color: #2b2b2b
+    }
+    @media screen and (min-width:820px) {
+        .componentOperate_titleContentDifficultOperatemain__EAH0k {
+            width: 100%;
+            padding: 3rem;
+            background-color: #f5f5f5
+        }
+        .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+            position: relative;
+            width: 100%;
+            height: 30rem;
+            background-color: #ef5941;
+            border-radius: 1rem;
+            margin: 1rem 0 0;
+            padding: 6rem 1.875rem 0 0;
+            overflow: hidden
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+            position: relative;
+            width: 60%;
+            background-color: hsla(0, 0%, 100%, .4);
+            padding: 2.25rem;
+            border-radius: 1rem;
+            box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+            zoom: .24;
+            animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+        }
+        .componentOperate_titleContentStoreManagementMain__QaFOT {
+            flex-direction: column;
+            background-color: #183fce;
+            width: 100%;
+            display: flex;
+            padding: 3rem 3rem 11rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 {
+            width: 100%;
+            padding: 0 .5rem .5rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            line-height: 1.75rem;
+            color: #fff;
+            padding: 0 1.25rem .875rem 0
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 ul li {
+            font-size: .875rem;
+            line-height: 1.25rem;
+            color: #fff;
+            list-style-type: disc;
+            padding: 0 1.5rem 1rem 0;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentStoreManagementRelative__BDeQa {
+            position: relative;
+            width: 100%
+        }
+        .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+            position: absolute;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 0 -8px
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+            width: 100%;
+            display: flex;
+            margin-bottom: 16px
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: hsla(0, 0%, 100%, .86);
+            backdrop-filter: blur(36px);
+            -webkit-backdrop-filter: blur(36px);
+            box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+            width: 33.33%;
+            padding: 1rem;
+            margin: 0 .5rem;
+            border-radius: .75rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+            width: 3rem;
+            height: 3rem;
+            margin-bottom: .5rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+            font-size: .75rem;
+            font-weight: 600;
+            line-height: 1.25rem;
+            color: #183fce;
+            text-align: center
+        }
+        .componentOperate_mainQualityPartnerContent__3vdLv {
+            width: 100%;
+            background-color: #f6f9fc;
+            padding-bottom: 24px
+        }
+        .componentOperate_qualityPartnerContent__4pUVB {
+            width: 100%;
+            padding: 36px 0
+        }
+        .componentOperate_qualityPartnerContent__4pUVB h2 {
+            width: 100%;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            line-height: 2rem;
+            color: #ef5941;
+            padding-bottom: 1rem
+        }
+        .componentOperate_qualityPartnerContent__4pUVB p {
+            width: 100%;
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            line-height: 2rem;
+            color: #2b2b2b
+        }
+        .componentOperate_qualityPartnerContent__4pUVB h3 {
+            width: 100%;
+            text-align: center;
+            font-size: 68px;
+            font-weight: 700;
+            line-height: 76px;
+            color: #ef5941;
+            padding-bottom: 16px
+        }
+        .componentOperate_qualityPartnerContent__4pUVB strong {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            text-align: center;
+            font-size: 24px;
+            line-height: 28px;
+            font-weight: 500;
+            color: #2b2b2b
+        }
+        .componentOperate_contentQualityPartner__g_Bpj {
+            position: relative;
+            width: 100%;
+            height: 360px;
+            overflow: hidden
+        }
+        .componentOperate_contentQualityPartner__g_Bpj div {
+            position: absolute;
+            width: 100%;
+            margin-top: -68px
+        }
+        .componentOperate_contentQualityPartner__g_Bpj div canvas {
+            width: 1800px;
+            height: 400px
+        }
+        .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+            display: flex;
+            width: 100%;
+            padding: 0 24px;
+            margin-top: -400px
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+            width: 33.33%;
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            align-content: space-around;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: hsla(0, 0%, 100%, .6);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            margin: 12px;
+            padding: 56px 0 80px;
+            border: 1.4px solid #fff;
+            border-radius: 400px
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+            width: 160px;
+            height: 160px
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 28px;
+            color: #2b2b2b
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+            font-size: 12px;
+            line-height: 20px;
+            color: #2b2b2b;
+            padding: 12px 48px 0
+        }
+    }
+    @media screen and (min-width:1024px) {
+        .componentOperate_titleContentDifficultOperatemain__EAH0k {
+            width: 100%;
+            padding: 1.5rem 3rem;
+            background-color: #f5f5f5
+        }
+        .componentOperate_titleContentDifficultOperate__DPxa7 {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            padding-bottom: 2.25rem
+        }
+        .componentOperate_titleContentDifficultOperateImage___jRmy {
+            width: 50%;
+            padding-right: 4.25rem
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q {
+            width: 50%;
+            padding: 2.25rem
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.375rem;
+            color: #2b2b2b;
+            padding-bottom: 1.5rem
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.375rem;
+            color: #ef5941
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+            font-size: 1rem;
+            line-height: 1.5rem;
+            color: #000;
+            list-style-type: disc;
+            padding-bottom: 1.5rem;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.375rem;
+            color: #ef5941;
+            padding-bottom: 1.5rem
+        }
+        .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+            width: 54%;
+            background-color: rgba(239, 86, 65, .16);
+            padding: 1.875rem 1.875rem 0;
+            border-radius: 2.25rem
+        }
+        .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+            font-size: 1.5rem;
+            line-height: 2rem;
+            font-weight: 700;
+            color: #ef5941;
+            padding-bottom: 1.5rem
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+            display: flex;
+            width: 100%
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+            width: 50%
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+            color: #ef5941;
+            font-weight: 600;
+            margin-right: 3rem
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+            color: #2b2b2b
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+            font-size: 1rem;
+            line-height: 1.5rem;
+            list-style-type: disc;
+            padding: 0 1rem 1rem 0;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+            position: relative;
+            width: 46%;
+            background-color: #ef5941;
+            border-radius: 2rem;
+            margin: 0 0 0 2.25rem;
+            padding: 0 1.875rem 0 0;
+            overflow: hidden
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+            width: 100%;
+            height: 420px;
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-end;
+            padding-left: 1.875rem;
+            margin: -2rem 0 0
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+            position: absolute;
+            z-index: 99;
+            width: 96%;
+            margin: 11rem 48px 0 0
+        }
+        @keyframes componentOperate_moveUpDownBox__Up68N {
+            0% {
+                transform: translateY(0);
+                transform: rotate(14deg)
+            }
+            to {
+                transform: translateY(-24px);
+                transform: rotate(14deg)
+            }
+        }
+        .componentOperate_titleContentStoreManagementMain__QaFOT {
+            flex-direction: column;
+            background-color: #183fce;
+            width: 100%;
+            display: flex;
+            padding: 3rem 3rem 11rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 {
+            width: 100%;
+            padding: 0 .5rem .5rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 h3 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            line-height: 1.875rem;
+            color: #fff;
+            padding: 0 1.25rem .875rem 0
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 ul li {
+            font-size: 1rem;
+            line-height: 1.5rem;
+            color: #fff;
+            list-style-type: disc;
+            padding: 0 1.5rem 1rem 0;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentStoreManagementRelative__BDeQa {
+            position: relative;
+            width: 100%
+        }
+        .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+            position: absolute;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 0 -8px
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+            width: 100%;
+            display: flex;
+            margin-bottom: 16px
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: hsla(0, 0%, 100%, .86);
+            backdrop-filter: blur(36px);
+            -webkit-backdrop-filter: blur(36px);
+            box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+            width: 33.33%;
+            padding: 1rem;
+            margin: 0 .5rem;
+            border-radius: .75rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+            width: 4rem;
+            height: 4rem;
+            margin-bottom: .5rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+            font-size: .75rem;
+            font-weight: 600;
+            line-height: 1.25rem;
+            color: #183fce;
+            text-align: center
+        }
+        .componentOperate_mainQualityPartnerContent__3vdLv {
+            width: 100%;
+            background-color: #f6f9fc;
+            padding-bottom: 24px
+        }
+        .componentOperate_qualityPartnerContent__4pUVB {
+            width: 100%;
+            padding: 36px 0
+        }
+        .componentOperate_qualityPartnerContent__4pUVB h2 {
+            width: 100%;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            line-height: 2rem;
+            color: #ef5941;
+            padding-bottom: 1rem
+        }
+        .componentOperate_qualityPartnerContent__4pUVB p {
+            width: 100%;
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            line-height: 2rem;
+            color: #2b2b2b
+        }
+        .componentOperate_qualityPartnerContent__4pUVB h3 {
+            width: 100%;
+            text-align: center;
+            font-size: 68px;
+            font-weight: 700;
+            line-height: 76px;
+            color: #ef5941;
+            padding-bottom: 16px
+        }
+        .componentOperate_qualityPartnerContent__4pUVB strong {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            text-align: center;
+            font-size: 24px;
+            line-height: 28px;
+            font-weight: 500;
+            color: #2b2b2b
+        }
+        .componentOperate_contentQualityPartner__g_Bpj {
+            position: relative;
+            width: 100%;
+            height: 360px;
+            overflow: hidden
+        }
+        .componentOperate_contentQualityPartner__g_Bpj div {
+            position: absolute;
+            width: 100%;
+            margin-top: -68px
+        }
+        .componentOperate_contentQualityPartner__g_Bpj div canvas {
+            width: 1800px;
+            height: 400px
+        }
+        .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+            display: flex;
+            width: 100%;
+            padding: 0 24px;
+            margin-top: -400px
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+            width: 33.33%;
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            align-content: space-around;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: hsla(0, 0%, 100%, .6);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            margin: 12px;
+            padding: 56px 0 80px;
+            border: 1.4px solid #fff;
+            border-radius: 400px
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+            width: 180px;
+            height: 180px
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+            font-size: 1.5rem;
+            font-weight: 700;
+            line-height: 2rem;
+            color: #2b2b2b
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+            font-size: .875rem;
+            line-height: 1.75rem;
+            color: #2b2b2b;
+            padding: 12px 68px 0
+        }
+    }
+}
+
+@media only screen and (min-width:1280px) and (max-width:1325px) {
+    .componentOperate_titleContentDifficultOperatemain__EAH0k {
+        width: 100%;
+        padding: 2.25rem 6rem 2.25rem 10.25rem;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperate__DPxa7 {
+        display: flex;
+        width: 100%;
+        padding-bottom: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateImage___jRmy {
+        width: 50%;
+        padding-right: 4.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q {
+        width: 50%;
+        padding: 4.25rem 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #2b2b2b;
+        padding: 0 2rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #ef5941
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #000;
+        list-style-type: disc;
+        padding-bottom: 1.5rem;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+        width: 54%;
+        background-color: rgba(239, 86, 65, .16);
+        padding: 1.875rem 1.875rem 3.375rem;
+        border-radius: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+        width: 50%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+        color: #ef5941;
+        font-weight: 600;
+        margin-right: 3rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+        color: #2b2b2b
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+        font-size: 1em;
+        line-height: 1.5rem;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+        position: relative;
+        width: 46%;
+        background-color: #ef5941;
+        border-radius: 2.25rem;
+        margin-left: 2.25rem;
+        padding: 3rem 1.875rem 0 0;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        padding-left: 1.875rem;
+        margin: -6rem 0 0 1.875rem;
+        transform: scale(.8)
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+        position: absolute;
+        z-index: 99;
+        width: 92%;
+        margin: .5rem 3rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+        position: relative;
+        width: 80%;
+        background-color: hsla(0, 0%, 100%, .4);
+        padding: 2.25rem;
+        border-radius: 1rem;
+        box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+        zoom: .24;
+        animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+        0% {
+            transform: translateY(0)
+        }
+        to {
+            transform: translateY(-24px)
+        }
+    }
+    .componentOperate_titleContentStoreManagementMain__QaFOT {
+        background-color: #183fce;
+        width: 100%;
+        display: flex;
+        padding: 2.25rem .75rem 4.25rem 12rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 {
+        width: 44%
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #f5f5f5;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #f5f5f5;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentStoreManagementRelative__BDeQa {
+        position: relative;
+        width: 56%
+    }
+    .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+        width: 100%;
+        display: flex;
+        margin-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: hsla(0, 0%, 100%, .86);
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(36px);
+        box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+        width: 33.33%;
+        padding: 24px;
+        margin-right: 1.5rem;
+        border-radius: 1rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+        margin-bottom: .5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #183fce;
+        text-align: center
+    }
+    .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+        width: 100%;
+        padding: 128px 36px 36px 164px;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetail__Tf0ZX {
+        width: 100%;
+        display: flex
+    }
+    .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+        position: relative;
+        width: 50%;
+        height: 360px;
+        background-color: #ef5941;
+        margin: 0 36px 36px 0;
+        padding: 54px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+        width: 50%;
+        background-color: rgba(239, 86, 65, .2);
+        padding: 30px;
+        border-radius: 36px;
+        margin: 0 0 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #ef5941;
+        padding: 0 6rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+        font-size: 1rem;
+        line-height: 24px;
+        color: #ef5941;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+        width: 60%
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+        position: absolute;
+        width: 100%;
+        margin: 160px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #ef5941;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+        position: relative;
+        width: 40%;
+        height: 360px;
+        background-color: #183fce;
+        padding: 24px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+        width: 100%;
+        display: flex;
+        padding: 0 24px 12px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+        width: 50%;
+        font-size: 10px;
+        color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+        text-align: right
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+        width: 60%;
+        background-color: rgba(24, 63, 206, .2);
+        padding: 30px;
+        margin-right: 36px;
+        border-radius: 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+        width: 50%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #183fce;
+        padding: 0 6rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueMainText__H6K3_ {
+        color: #183fce;
+        font-weight: 600
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueText__4FUMr {
+        color: #2b2b2b
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+        font-size: 16px;
+        line-height: 24px;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        position: absolute;
+        width: 100%;
+        margin: 160px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #183fce;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 104px;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+        width: 46%;
+        animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownBox__Up68N {
+        0% {
+            transform: translateY(0);
+            transform: rotate(14deg)
+        }
+        to {
+            transform: translateY(-24px);
+            transform: rotate(14deg)
+        }
+    }
+    .componentOperate_mainQualityPartnerContent__3vdLv {
+        width: 100%;
+        background-color: #f6f9fc;
+        padding-bottom: 2.25rem
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        width: 100%;
+        padding: 36px 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB p {
+        width: 100%;
+        text-align: center;
+        font-size: 2.25rem;
+        font-weight: 600;
+        line-height: 2.875rem;
+        color: #2b2b2b
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        width: 100%;
+        text-align: center;
+        font-size: 68px;
+        font-weight: 700;
+        line-height: 76px;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 500;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartner__g_Bpj {
+        position: relative;
+        width: 100%;
+        height: 360px;
+        overflow: hidden
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div {
+        position: absolute;
+        width: 100%;
+        margin-top: -180px
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div canvas {
+        width: 2000px;
+        height: 600px
+    }
+    .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+        display: flex;
+        width: 100%;
+        padding: 0 96px;
+        margin-top: -400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+        width: 33.33%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: hsla(0, 0%, 100%, .6);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        margin: 18px;
+        padding: 68px 0 96px;
+        border: 1.4px solid #fff;
+        border-radius: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+        width: 240px;
+        height: 240px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+        font-size: 20px;
+        line-height: 22px;
+        color: #2b2b2b;
+        padding: 12px 36px 0
+    }
+}
+
+@media only screen and (min-width:1326px) and (max-width:1600px) {
+    .componentOperate_titleContentDifficultOperatemain__EAH0k {
+        width: 100%;
+        padding: 2.25rem 6rem 2.25rem 10.25rem;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperate__DPxa7 {
+        display: flex;
+        width: 100%;
+        padding-bottom: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateImage___jRmy {
+        width: 50%;
+        padding-right: 4.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q {
+        width: 50%;
+        padding: 4.25rem 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #2b2b2b;
+        padding: 0 4rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #ef5941
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #000;
+        list-style-type: disc;
+        padding-bottom: 1.5rem;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+        width: 54%;
+        background-color: rgba(239, 86, 65, .16);
+        padding: 1.875rem 1.875rem 3.375rem;
+        border-radius: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+        width: 50%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+        color: #ef5941;
+        font-weight: 600;
+        margin-right: 3rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+        color: #2b2b2b
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+        font-size: 1em;
+        line-height: 1.5rem;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+        position: relative;
+        width: 46%;
+        background-color: #ef5941;
+        border-radius: 2.25rem;
+        margin-left: 2.25rem;
+        padding: 3rem 1.875rem 0 0;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        padding-left: 1.875rem;
+        margin: -6rem 0 0 1.875rem;
+        transform: scale(.8)
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+        position: absolute;
+        z-index: 99;
+        width: 92%;
+        margin: -3rem 3rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+        position: relative;
+        width: 80%;
+        background-color: hsla(0, 0%, 100%, .4);
+        padding: 2.25rem;
+        border-radius: 1rem;
+        box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+        zoom: .24;
+        animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+        0% {
+            transform: translateY(0)
+        }
+        to {
+            transform: translateY(-24px)
+        }
+    }
+    .componentOperate_titleContentStoreManagementMain__QaFOT {
+        background-color: #183fce;
+        width: 100%;
+        display: flex;
+        padding: 2.25rem .75rem 4.25rem 12rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 {
+        width: 44%
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #f5f5f5;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #f5f5f5;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentStoreManagementRelative__BDeQa {
+        position: relative;
+        width: 56%
+    }
+    .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+        width: 100%;
+        display: flex;
+        margin-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: hsla(0, 0%, 100%, .86);
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(36px);
+        box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+        width: 33.33%;
+        padding: 24px;
+        margin-right: 1.5rem;
+        border-radius: 1rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+        margin-bottom: .5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #183fce;
+        text-align: center
+    }
+    .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+        width: 100%;
+        padding: 128px 36px 36px 164px;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetail__Tf0ZX {
+        width: 100%;
+        display: flex
+    }
+    .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+        position: relative;
+        width: 50%;
+        height: 360px;
+        background-color: #ef5941;
+        margin: 0 36px 36px 0;
+        padding: 54px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+        width: 50%;
+        background-color: rgba(239, 86, 65, .2);
+        padding: 30px;
+        border-radius: 36px;
+        margin: 0 0 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #ef5941;
+        padding: 0 12rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+        font-size: 1rem;
+        line-height: 24px;
+        color: #ef5941;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+        width: 60%
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+        position: absolute;
+        width: 100%;
+        margin: 160px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #ef5941;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+        position: relative;
+        width: 40%;
+        height: 360px;
+        background-color: #183fce;
+        padding: 24px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+        width: 100%;
+        display: flex;
+        padding: 0 24px 12px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+        width: 50%;
+        font-size: 10px;
+        color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+        text-align: right
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+        width: 60%;
+        background-color: rgba(24, 63, 206, .2);
+        padding: 30px;
+        margin-right: 36px;
+        border-radius: 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+        width: 50%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #183fce;
+        padding: 0 6rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueMainText__H6K3_ {
+        color: #183fce;
+        font-weight: 600
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueText__4FUMr {
+        color: #2b2b2b
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+        font-size: 16px;
+        line-height: 24px;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        position: absolute;
+        width: 100%;
+        margin: 160px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #183fce;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 104px;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+        width: 46%;
+        animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownBox__Up68N {
+        0% {
+            transform: translateY(0);
+            transform: rotate(14deg)
+        }
+        to {
+            transform: translateY(-24px);
+            transform: rotate(14deg)
+        }
+    }
+    .componentOperate_mainQualityPartnerContent__3vdLv {
+        width: 100%;
+        background-color: #f6f9fc;
+        padding-bottom: 36px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        padding: 36px 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB p {
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 28px;
+        color: #2b2b2b
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        width: 100%;
+        text-align: center;
+        font-size: 68px;
+        line-height: 76px;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 500
+    }
+    .componentOperate_contentQualityPartner__g_Bpj {
+        position: relative;
+        width: 100%;
+        height: 360px;
+        overflow: hidden
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div {
+        position: absolute;
+        width: 100%;
+        margin-top: -260px
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div canvas {
+        width: 2000px;
+        height: 800px
+    }
+    .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+        display: flex;
+        width: 100%;
+        padding: 0 96px;
+        margin-top: -400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+        width: 33.33%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: hsla(0, 0%, 100%, .6);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        margin: 18px;
+        padding: 68px 0 96px;
+        border: 1.4px solid #fff;
+        border-radius: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+        width: 240px;
+        height: 240px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+        font-size: 20px;
+        line-height: 22px;
+        color: #2b2b2b;
+        padding: 12px 54px 0
+    }
+    .componentOperate_mainTablePriceOfShopeeLazada__s9094 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        width: 100%;
+        padding: 2.25rem
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        font-size: 4.25rem;
+        line-height: 4.75rem;
+        font-weight: 700;
+        color: #ef5941;
+        padding: 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        font-size: 2.25rem;
+        line-height: 2.875rem;
+        font-weight: 700;
+        color: #2b2b2b
+    }
+    @media only screen and (min-width:1520px) {
+        .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+            font-size: 2.375rem;
+            font-weight: 700;
+            line-height: 2.875rem;
+            color: #2b2b2b;
+            padding: 0 0 1.5rem
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+            font-size: 2.375rem;
+            font-weight: 700;
+            line-height: 2.875rem;
+            color: #ef5941
+        }
+        .componentOperate_titleContentDifficultOperateImage___jRmy {
+            width: 50%;
+            padding-right: 6rem
+        }
+        .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+            width: 54%;
+            background-color: rgba(239, 86, 65, .16);
+            padding: 1.875rem 1.875rem 8rem;
+            border-radius: 2.25rem
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.375rem;
+            color: #ef5941;
+            padding: 0 20rem 1.5rem 0
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+            width: 33.33%;
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            align-content: space-around;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: hsla(0, 0%, 100%, .6);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            margin: 18px;
+            padding: 96px 0 148px;
+            border: 1.4px solid #fff;
+            border-radius: 400px
+        }
+        .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+            font-size: 20px;
+            line-height: 22px;
+            color: #2b2b2b;
+            padding: 12px 96px 0
+        }
+    }
+}
+
+@media only screen and (min-width:1601px) and (max-width:1880px) {
+    .componentOperate_titleContentDifficultOperatemain__EAH0k {
+        width: 100%;
+        padding: 2.25rem 6rem 2.25rem 10.25rem;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperate__DPxa7 {
+        display: flex;
+        width: 100%;
+        padding-bottom: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateImage___jRmy {
+        width: 50%;
+        padding-right: 8rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q {
+        width: 50%;
+        padding: 4.25rem 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #2b2b2b;
+        padding: 0 4rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #000;
+        list-style-type: disc;
+        padding-bottom: 1.5rem;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+        width: 54%;
+        background-color: rgba(239, 86, 65, .16);
+        padding: 1.875rem 1.875rem 8rem;
+        border-radius: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941;
+        padding-bottom: 0 6rem 1.5rem 0
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+        width: 50%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+        color: #ef5941;
+        font-weight: 600;
+        margin-right: 3rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+        color: #2b2b2b
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+        font-size: 1em;
+        line-height: 1.5rem;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+        position: relative;
+        width: 46%;
+        background-color: #ef5941;
+        border-radius: 2.25rem;
+        margin-left: 2.25rem;
+        padding: 3rem 1.875rem 0 0;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        padding-left: 1.875rem;
+        margin: -6rem 0 0 1.875rem;
+        transform: scale(.8)
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+        position: absolute;
+        z-index: 99;
+        width: 92%;
+        margin: -3rem 3rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+        position: relative;
+        width: 80%;
+        background-color: hsla(0, 0%, 100%, .4);
+        padding: 2.25rem;
+        border-radius: 1rem;
+        box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+        zoom: .24;
+        animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+        0% {
+            transform: translateY(0)
+        }
+        to {
+            transform: translateY(-24px)
+        }
+    }
+    .componentOperate_titleContentStoreManagementMain__QaFOT {
+        background-color: #183fce;
+        width: 100%;
+        display: flex;
+        padding: 2.25rem .75rem 4.25rem 12rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 {
+        width: 44%
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #f5f5f5;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #f5f5f5;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentStoreManagementRelative__BDeQa {
+        position: relative;
+        width: 56%
+    }
+    .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+        width: 100%;
+        display: flex;
+        margin-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: hsla(0, 0%, 100%, .86);
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(36px);
+        box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+        width: 33.33%;
+        padding: 24px;
+        margin-right: 1.5rem;
+        border-radius: 1rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+        margin-bottom: .5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #183fce;
+        text-align: center
+    }
+    .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+        width: 100%;
+        padding: 128px 36px 36px 164px;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetail__Tf0ZX {
+        width: 100%;
+        display: flex
+    }
+    .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+        position: relative;
+        width: 50%;
+        height: 360px;
+        background-color: #ef5941;
+        margin: 0 36px 36px 0;
+        padding: 54px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+        width: 50%;
+        background-color: rgba(239, 86, 65, .2);
+        padding: 30px;
+        border-radius: 36px;
+        margin: 0 0 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #ef5941;
+        padding: 0 24rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        color: #ef5941;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+        width: 60%
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+        position: absolute;
+        width: 100%;
+        margin: 160px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #ef5941;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+        position: relative;
+        width: 40%;
+        height: 360px;
+        background-color: #183fce;
+        padding: 24px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+        width: 100%;
+        display: flex;
+        padding: 0 24px 12px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+        width: 50%;
+        font-size: 10px;
+        color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+        text-align: right
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+        width: 60%;
+        background-color: rgba(24, 63, 206, .2);
+        padding: 30px;
+        margin-right: 36px;
+        border-radius: 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+        width: 50%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #183fce;
+        padding: 0 6rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueMainText__H6K3_ {
+        color: #183fce;
+        font-weight: 600
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueText__4FUMr {
+        color: #2b2b2b
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        position: absolute;
+        width: 100%;
+        margin: 160px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #183fce;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 104px;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+        width: 46%;
+        animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownBox__Up68N {
+        0% {
+            transform: translateY(0);
+            transform: rotate(14deg)
+        }
+        to {
+            transform: translateY(-24px);
+            transform: rotate(14deg)
+        }
+    }
+    .componentOperate_mainQualityPartnerContent__3vdLv {
+        width: 100%;
+        background-color: #f6f9fc;
+        padding-bottom: 96px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        padding: 36px 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB p {
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 28px;
+        color: #2b2b2b
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        width: 100%;
+        text-align: center;
+        font-size: 68px;
+        line-height: 76px;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 500
+    }
+    .componentOperate_contentQualityPartner__g_Bpj {
+        position: relative;
+        width: 100%;
+        height: 360px;
+        overflow: hidden
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div {
+        position: absolute;
+        width: 100%;
+        margin-top: -260px
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div canvas {
+        width: 2000px;
+        height: 800px
+    }
+    .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+        display: flex;
+        width: 100%;
+        padding: 0 96px;
+        margin-top: -400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+        width: 33.33%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: hsla(0, 0%, 100%, .6);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        margin: 18px;
+        padding: 96px 0 164px;
+        border: 1.4px solid #fff;
+        border-radius: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+        width: 240px;
+        height: 240px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+        font-size: 20px;
+        line-height: 22px;
+        color: #2b2b2b;
+        padding: 12px 96px 0
+    }
+    .componentOperate_mainTablePriceOfShopeeLazada__s9094 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        width: 100%;
+        padding: 2.25rem
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        font-size: 4.25rem;
+        line-height: 4.75rem;
+        font-weight: 700;
+        color: #ef5941;
+        padding: 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        font-size: 2.25rem;
+        line-height: 2.875rem;
+        font-weight: 700;
+        color: #2b2b2b
+    }
+    @media only screen and (min-width:1720px) {
+        .componentOperate_titleContentDifficultOperatemain__EAH0k {
+            width: 100%;
+            padding: 2.25rem 6rem 2.25rem 10.25rem;
+            background-color: #f5f5f5
+        }
+        .componentOperate_titleContentDifficultOperate__DPxa7 {
+            display: flex;
+            width: 100%;
+            padding-bottom: 2.25rem
+        }
+        .componentOperate_titleContentDifficultOperateImage___jRmy {
+            width: 50%;
+            padding-right: 8rem
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q {
+            width: 50%;
+            padding: 4.25rem 1.5rem
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+            font-size: 2.375rem;
+            font-weight: 700;
+            line-height: 2.875rem;
+            color: #2b2b2b;
+            padding: 0 6rem 1.5rem 0
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+            font-size: 2.375rem;
+            font-weight: 700;
+            line-height: 2.875rem;
+            color: #ef5941
+        }
+        .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+            font-size: 1.25rem;
+            line-height: 1.875rem;
+            color: #000;
+            list-style-type: disc;
+            padding-bottom: 1.5rem;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+            font-size: 2.375rem;
+            font-weight: 700;
+            line-height: 2.875rem;
+            color: #ef5941;
+            padding-bottom: 1.5rem
+        }
+        .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+            width: 54%;
+            background-color: rgba(239, 86, 65, .16);
+            padding: 1.875rem 1.875rem 8rem;
+            border-radius: 2.25rem
+        }
+        .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.25rem;
+            color: #ef5941;
+            padding-bottom: 1.5rem
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+            display: flex;
+            width: 100%
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+            width: 50%
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+            color: #ef5941;
+            font-weight: 600;
+            margin-right: 3rem
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+            color: #2b2b2b
+        }
+        .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+            font-size: 1.25em;
+            line-height: 1.875rem;
+            list-style-type: disc;
+            padding: 0 1rem 1rem 0;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+            position: relative;
+            width: 46%;
+            background-color: #ef5941;
+            border-radius: 2.25rem;
+            margin-left: 2.25rem;
+            padding: 3rem 1.875rem 0 0;
+            overflow: hidden
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+            width: 100%;
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            padding-left: 1.875rem;
+            margin: -6rem 0 0 1.875rem;
+            transform: scale(.8)
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+            position: absolute;
+            z-index: 99;
+            width: 92%;
+            margin: -3rem 3rem 0 0
+        }
+        .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+            position: relative;
+            width: 80%;
+            background-color: hsla(0, 0%, 100%, .4);
+            padding: 2.25rem;
+            border-radius: 1rem;
+            box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+            zoom: .24;
+            animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+        }
+        @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+            0% {
+                transform: translateY(0)
+            }
+            to {
+                transform: translateY(-24px)
+            }
+        }
+        .componentOperate_titleContentStoreManagementMain__QaFOT {
+            background-color: #183fce;
+            width: 100%;
+            display: flex;
+            padding: 2.25rem .75rem 4.25rem 12rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 {
+            width: 44%
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 h3 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.875rem;
+            color: #f5f5f5;
+            padding-bottom: 1.5rem
+        }
+        .componentOperate_titleContentStoreManagement__yGe76 ul li {
+            font-size: 1.25rem;
+            line-height: 1.875rem;
+            color: #f5f5f5;
+            list-style-type: disc;
+            padding: 0 1rem 1rem 0;
+            margin-left: 1.25rem
+        }
+        .componentOperate_titleContentStoreManagementRelative__BDeQa {
+            position: relative;
+            width: 56%
+        }
+        .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+            position: absolute;
+            width: 100%;
+            display: flex;
+            flex-direction: column
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+            width: 100%;
+            display: flex;
+            margin-bottom: 1.5rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: hsla(0, 0%, 100%, .86);
+            backdrop-filter: blur(36px);
+            -webkit-backdrop-filter: blur(36px);
+            box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+            width: 33.33%;
+            padding: 24px;
+            margin-right: 1.5rem;
+            border-radius: 1rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+            margin-bottom: .5rem
+        }
+        .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1.25rem;
+            color: #183fce;
+            text-align: center
+        }
+        .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+            width: 100%;
+            padding: 128px 36px 36px 164px;
+            background-color: #f5f5f5
+        }
+        .componentOperate_titleContentDifficultOperateDetail__Tf0ZX {
+            width: 100%;
+            display: flex
+        }
+        .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+            position: relative;
+            width: 50%;
+            height: 460px;
+            background-color: #ef5941;
+            margin: 0 36px 36px 0;
+            padding: 54px 0 0;
+            border-radius: 36px;
+            overflow: hidden
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+            width: 50%;
+            background-color: rgba(239, 86, 65, .2);
+            padding: 30px;
+            border-radius: 36px;
+            margin: 0 0 36px
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.375rem;
+            color: #ef5941;
+            padding: 0 28rem 1.5rem 0
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+            font-size: 1.25rem;
+            line-height: 1.875rem;
+            color: #ef5941;
+            list-style-type: disc;
+            padding: 0 16px 16px 0;
+            margin-left: 20px
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+            position: absolute;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            z-index: 2
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+            width: 60%
+        }
+        .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+            position: absolute;
+            width: 100%;
+            margin: 260px 0 0 -24px;
+            z-index: 1
+        }
+        .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+            width: 1200px;
+            display: flex;
+            margin-bottom: 16px
+        }
+        .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+            padding: 10px 24px;
+            background-color: #fff;
+            color: #ef5941;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 20px;
+            margin-right: 12px;
+            border-radius: 100px
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+            position: relative;
+            width: 40%;
+            height: 460px;
+            background-color: #183fce;
+            padding: 24px 0 0;
+            border-radius: 36px;
+            overflow: hidden
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+            width: 100%;
+            display: flex;
+            padding: 0 24px 12px
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+            width: 50%;
+            font-size: 10px;
+            color: #f5f5f5
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+            text-align: right
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+            width: 60%;
+            background-color: rgba(24, 63, 206, .2);
+            padding: 30px;
+            margin-right: 36px;
+            border-radius: 36px
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+            display: flex;
+            width: 100%
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+            width: 50%
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            line-height: 2.375rem;
+            color: #183fce;
+            padding: 0 6rem 1.5rem 0
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueMainText__H6K3_ {
+            color: #183fce;
+            font-weight: 600
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueText__4FUMr {
+            color: #2b2b2b
+        }
+        .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+            font-size: 1.25rem;
+            line-height: 1.875rem;
+            list-style-type: disc;
+            padding: 0 16px 16px 0;
+            margin-left: 20px
+        }
+        .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+            position: absolute;
+            width: 100%;
+            margin: 220px 0 0 -24px;
+            z-index: 1
+        }
+        .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+            width: 1200px;
+            display: flex;
+            margin-bottom: 16px
+        }
+        .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+            padding: 10px 24px;
+            background-color: #fff;
+            color: #183fce;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 20px;
+            margin-right: 12px;
+            border-radius: 100px
+        }
+        .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+            position: absolute;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            margin-top: 104px;
+            z-index: 2
+        }
+        .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+            width: 46%;
+            animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate
+        }
+        @keyframes componentOperate_moveUpDownBox__Up68N {
+            0% {
+                transform: translateY(0);
+                transform: rotate(14deg)
+            }
+            to {
+                transform: translateY(-24px);
+                transform: rotate(14deg)
+            }
+        }
+    }
+}
+
+@media only screen and (min-width:1920px) {
+    .componentOperate_titleContentDifficultOperatemain__EAH0k {
+        width: 100%;
+        padding: 2.25rem 6rem 2.25rem 10.25rem;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperate__DPxa7 {
+        display: flex;
+        width: 100%;
+        padding-bottom: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateImage___jRmy {
+        width: 44%;
+        padding-right: 6rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q {
+        width: 56%;
+        padding: 4.25rem 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #2b2b2b;
+        padding: 0 20rem 2rem 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        color: #000;
+        list-style-type: disc;
+        padding-bottom: 2rem;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+        width: 54%;
+        background-color: rgba(239, 86, 65, .16);
+        padding: 1.875rem 1.875rem 14rem;
+        border-radius: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.25rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+        width: 50%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+        color: #ef5941;
+        font-weight: 600;
+        margin-right: 3rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+        color: #2b2b2b
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+        font-size: 1.25em;
+        line-height: 1.975rem;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+        position: relative;
+        width: 46%;
+        background-color: #ef5941;
+        border-radius: 2.25rem;
+        margin-left: 2.25rem;
+        padding: 3rem 1.875rem 0 0;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        padding-left: 1.875rem;
+        margin: -6rem 0 0 1.875rem;
+        transform: scale(.8)
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+        position: absolute;
+        z-index: 99;
+        width: 92%;
+        margin: -3rem 3rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+        position: relative;
+        width: 80%;
+        background-color: hsla(0, 0%, 100%, .4);
+        padding: 2.25rem;
+        border-radius: 1rem;
+        box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+        zoom: .24;
+        animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+        0% {
+            transform: translateY(0)
+        }
+        to {
+            transform: translateY(-24px)
+        }
+    }
+    .componentOperate_titleContentStoreManagementMain__QaFOT {
+        background-color: #183fce;
+        width: 100%;
+        display: flex;
+        padding: 2.25rem .75rem 4.25rem 12rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 {
+        width: 44%
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #f5f5f5;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        color: #f5f5f5;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentStoreManagementRelative__BDeQa {
+        position: relative;
+        width: 56%
+    }
+    .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+        width: 100%;
+        display: flex;
+        margin-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: hsla(0, 0%, 100%, .86);
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(36px);
+        box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+        width: 33.33%;
+        padding: 24px;
+        margin-right: 1.5rem;
+        border-radius: 1rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+        margin-bottom: .5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #183fce;
+        text-align: center
+    }
+    .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+        width: 100%;
+        padding: 128px 36px 36px 164px;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetail__Tf0ZX {
+        width: 100%;
+        display: flex
+    }
+    .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+        position: relative;
+        width: 50%;
+        height: 460px;
+        background-color: #ef5941;
+        margin: 0 36px 36px 0;
+        padding: 54px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+        width: 50%;
+        background-color: rgba(239, 86, 65, .2);
+        padding: 30px;
+        border-radius: 36px;
+        margin: 0 0 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #ef5941;
+        padding: 0 28rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        color: #ef5941;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+        width: 60%
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+        position: absolute;
+        width: 100%;
+        margin: 260px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #ef5941;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+        position: relative;
+        width: 40%;
+        height: 460px;
+        background-color: #183fce;
+        padding: 24px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+        width: 100%;
+        display: flex;
+        padding: 0 24px 12px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+        width: 50%;
+        font-size: 10px;
+        color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+        text-align: right
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+        width: 60%;
+        background-color: rgba(24, 63, 206, .2);
+        padding: 30px;
+        margin-right: 36px;
+        border-radius: 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+        width: 50%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #183fce;
+        padding: 0 6rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueMainText__H6K3_ {
+        color: #183fce;
+        font-weight: 600
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueText__4FUMr {
+        color: #2b2b2b
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        position: absolute;
+        width: 100%;
+        margin: 220px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #183fce;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 104px;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+        width: 46%;
+        animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownBox__Up68N {
+        0% {
+            transform: translateY(0);
+            transform: rotate(14deg)
+        }
+        to {
+            transform: translateY(-24px);
+            transform: rotate(14deg)
+        }
+    }
+    .componentOperate_mainQualityPartnerContent__3vdLv {
+        width: 100%;
+        background-color: #f6f9fc;
+        padding-bottom: 36px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        width: 100%;
+        padding: 36px 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB p {
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 28px;
+        color: #2b2b2b
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        width: 100%;
+        text-align: center;
+        font-size: 68px;
+        font-weight: 700;
+        line-height: 76px;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 500;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartner__g_Bpj {
+        position: relative;
+        width: 100%;
+        height: 360px;
+        overflow: hidden
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div {
+        position: absolute;
+        width: 100%;
+        margin-top: -660px
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div canvas {
+        width: 3600px;
+        height: 1500px
+    }
+    .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+        display: flex;
+        width: 100%;
+        padding: 0 164px;
+        margin-top: -400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+        width: 33.33%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: hsla(0, 0%, 100%, .6);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        margin: 18px;
+        padding: 128px 0 164px;
+        border: 1.4px solid #fff;
+        border-radius: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+        width: 280px;
+        height: 280px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+        font-size: 20px;
+        line-height: 22px;
+        color: #2b2b2b;
+        padding: 12px 148px 0
+    }
+}
+
+@media only screen and (min-width:2048px) and (max-width:4000px) {
+    .componentOperate_reponsiveOperate__Sbp8F {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_titleContentDifficultOperatemain__EAH0k {
+        width: 80%;
+        padding: 2.25rem 6rem 2.25rem 10.25rem;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperate__DPxa7 {
+        display: flex;
+        width: 100%;
+        padding-bottom: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateImage___jRmy {
+        width: 44%;
+        padding-right: 6rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q {
+        width: 56%;
+        padding: 4.25rem 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q h2 {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #2b2b2b;
+        padding: 0 10rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q strong {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941
+    }
+    .componentOperate_titleContentDifficultOperateBox__yNL7q ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #000;
+        list-style-type: disc;
+        padding-bottom: 1.5rem;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateSecond__wWmGF {
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL {
+        width: 54%;
+        background-color: rgba(239, 86, 65, .16);
+        padding: 1.875rem 1.875rem 8rem;
+        border-radius: 2.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxSecond__e69LL h4 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.75rem;
+        color: #ef5941;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul {
+        width: 50%
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColorText__X8USR {
+        color: #ef5941;
+        font-weight: 600;
+        margin-right: 3rem
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContentColor__qppzn {
+        color: #2b2b2b
+    }
+    .componentOperate_titleDifficultOperateBoxSecondContent___xsf0 ul li {
+        font-size: 1em;
+        line-height: 1.5rem;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentDifficultOperateBoxThird__g_P0G {
+        position: relative;
+        width: 46%;
+        background-color: #ef5941;
+        border-radius: 2.25rem;
+        margin-left: 2.25rem;
+        padding: 3rem 1.875rem 0 0;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardMain__Tg5wz {
+        width: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        padding-left: 1.875rem;
+        margin: -6rem 0 0 1.875rem;
+        transform: scale(.8)
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboardImage__Yw16o {
+        position: absolute;
+        z-index: 99;
+        width: 92%;
+        margin: -3rem 3rem 0 0
+    }
+    .componentOperate_titleContentDifficultOperateBoxThirdDasboard__jphq0 {
+        position: relative;
+        width: 80%;
+        background-color: hsla(0, 0%, 100%, .4);
+        padding: 2.25rem;
+        border-radius: 1rem;
+        box-shadow: 0 -12px 36px rgba(43, 43, 43, .12);
+        zoom: .24;
+        animation: componentOperate_moveUpDownDasboard__LmBGR 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownDasboard__LmBGR {
+        0% {
+            transform: translateY(0)
+        }
+        to {
+            transform: translateY(-24px)
+        }
+    }
+    .componentOperate_reponsiveStoreManagement__gHSRp {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #183fce
+    }
+    .componentOperate_titleContentStoreManagementMain__QaFOT {
+        width: 80%;
+        display: flex;
+        padding: 2.25rem .75rem 4.25rem 12rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 {
+        width: 44%
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #f5f5f5;
+        padding-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagement__yGe76 ul li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #f5f5f5;
+        list-style-type: disc;
+        padding: 0 1rem 1rem 0;
+        margin-left: 1.25rem
+    }
+    .componentOperate_titleContentStoreManagementRelative__BDeQa {
+        position: relative;
+        width: 56%
+    }
+    .componentOperate_titleContentStoreManagementRelativeFrame__Aa2xN {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStart__h7KgX {
+        width: 100%;
+        display: flex;
+        margin-bottom: 1.5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: hsla(0, 0%, 100%, .86);
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(36px);
+        box-shadow: 0 12px 26px rgba(43, 43, 43, .12);
+        width: 33.33%;
+        padding: 24px;
+        margin-right: 1.5rem;
+        border-radius: 1rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG svg {
+        margin-bottom: .5rem
+    }
+    .componentOperate_titleContentStoreManagementRelativeSeltStartInclude__pqMaG p {
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        color: #183fce;
+        text-align: center
+    }
+    .componentOperate_reponsiveDetailOperate__wN6kb {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_titleContentDifficultOperateDetailMain__KhoU5 {
+        width: 80%;
+        padding: 8rem 2.25rem 2.25rem 10.25em;
+        background-color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetail__Tf0ZX {
+        width: 100%;
+        display: flex
+    }
+    .componentOperate_titleContentDifficultOperateDetailBox__2ySfm {
+        position: relative;
+        width: 50%;
+        height: 460px;
+        background-color: #ef5941;
+        margin: 0 36px 36px 0;
+        padding: 54px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A {
+        width: 50%;
+        background-color: rgba(239, 86, 65, .2);
+        padding: 30px;
+        border-radius: 36px;
+        margin: 0 0 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #ef5941;
+        padding: 0 20rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradient__aVk_A ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        color: #ef5941;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxImg__wyqWS img {
+        width: 60%
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContent__IQThV {
+        position: absolute;
+        width: 100%;
+        margin: 260px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentInclude__rwKOw p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #ef5941;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBlue__9sSDq {
+        position: relative;
+        width: 40%;
+        height: 460px;
+        background-color: #183fce;
+        padding: 24px 0 0;
+        border-radius: 36px;
+        overflow: hidden
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS {
+        width: 100%;
+        display: flex;
+        padding: 0 24px 12px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePattern__95DLS p {
+        width: 50%;
+        font-size: 10px;
+        color: #f5f5f5
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxBluePatternText__uJe01 {
+        text-align: right
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR {
+        width: 60%;
+        background-color: rgba(24, 63, 206, .2);
+        padding: 30px;
+        margin-right: 36px;
+        border-radius: 36px
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div {
+        display: flex;
+        width: 100%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR div ul {
+        width: 50%
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR h3 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem;
+        color: #183fce;
+        padding: 0 6rem 1.5rem 0
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueMainText__H6K3_ {
+        color: #183fce;
+        font-weight: 600
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlueText__4FUMr {
+        color: #2b2b2b
+    }
+    .componentOperate_titleContentDifficultOperateDetailBoxGradientBlue___gxWR ul li {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+        list-style-type: disc;
+        padding: 0 16px 16px 0;
+        margin-left: 20px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 {
+        position: absolute;
+        width: 100%;
+        margin: 220px 0 0 -24px;
+        z-index: 1
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div {
+        width: 1200px;
+        display: flex;
+        margin-bottom: 16px
+    }
+    .componentOperate_titleDifficultOperateDetailBoxContentBlue__3HjM1 div p {
+        padding: 10px 24px;
+        background-color: #fff;
+        color: #183fce;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-right: 12px;
+        border-radius: 100px
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 104px;
+        z-index: 2
+    }
+    .componentOperate_titleContentDifficultOperateDetailImgBox__o1ldc img {
+        width: 46%;
+        animation: componentOperate_moveUpDownBox__Up68N 2s infinite alternate
+    }
+    @keyframes componentOperate_moveUpDownBox__Up68N {
+        0% {
+            transform: translateY(0);
+            transform: rotate(14deg)
+        }
+        to {
+            transform: translateY(-24px);
+            transform: rotate(14deg)
+        }
+    }
+    .componentOperate_reponsiveQuality__nh8lc {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_reponsiveQualityDetail__1IxiZ {
+        width: 80%
+    }
+    .componentOperate_mainQualityPartnerContent__3vdLv {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: #f6f9fc;
+        padding-bottom: 96px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB {
+        width: 100%;
+        padding: 36px 0
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 2.375rem;
+        font-weight: 700;
+        line-height: 2.875rem;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB p {
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 28px;
+        color: #2b2b2b
+    }
+    .componentOperate_qualityPartnerContent__4pUVB h3 {
+        width: 100%;
+        text-align: center;
+        font-size: 68px;
+        font-weight: 700;
+        line-height: 76px;
+        color: #ef5941;
+        padding-bottom: 16px
+    }
+    .componentOperate_qualityPartnerContent__4pUVB strong {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 500;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartner__g_Bpj {
+        position: relative;
+        width: 100%;
+        height: 360px;
+        overflow: hidden
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div {
+        position: absolute;
+        width: 100%;
+        margin-top: -680px
+    }
+    .componentOperate_contentQualityPartner__g_Bpj div canvas {
+        width: 4600px;
+        height: 1520px
+    }
+    .componentOperate_contentQualityPartnerCertificateMain__GGDFl {
+        display: flex;
+        width: 100%;
+        padding: 0 6rem 0 10rem;
+        margin-top: -400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE {
+        width: 33.33%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: hsla(0, 0%, 100%, .6);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        margin: 18px;
+        padding: 128px 0 164px;
+        border: 1.4px solid #fff;
+        border-radius: 400px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE img {
+        width: 280px;
+        height: 280px
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE p {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #2b2b2b
+    }
+    .componentOperate_contentQualityPartnerCertificateDetail__DxUYE span {
+        font-size: 20px;
+        line-height: 22px;
+        color: #2b2b2b;
+        padding: 12px 96px 0
+    }
+    .componentOperate_reponsiveBrandCooperates__j8Kjd {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .componentOperate_mainTablePriceOfShopeeLazada__s9094 {
+        width: 80%
+    }
+    @media only screen and (min-width:2560px) {
+        .componentOperate_reponsiveQualityDetail__1IxiZ,
+        .componentOperate_titleContentDifficultOperateDetailMain__KhoU5,
+        .componentOperate_titleContentDifficultOperatemain__EAH0k,
+        .componentOperate_titleContentStoreManagementMain__QaFOT {
+            width: 75%
+        }
+    }
+}

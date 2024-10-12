@@ -1,0 +1,111 @@
+@media (max-width:768px) {
+    .navigation-branding img,
+    .site-logo.mobile-header-logo img {
+        padding: 7px 0 !important
+    }
+    div#mobile-menu ul li a {
+        color: #fff
+    }
+    ul#menu-main-menu-1 {
+        background: rgba(245, 75, 105, .95)
+    }
+    .facetwp-type-fselect .fs-wrap,
+    .facetwp-type-fselect .fs-dropdown {
+        width: 100% !important
+    }
+    .fs-label-wrap {
+        width: 100% !important;
+        border: 1.2px solid #e21111 !important
+    }
+}
+
+@media (max-width:930px) and (min-width:768px) {
+    .facetwp-type-fselect .fs-wrap,
+    .facetwp-type-fselect .fs-dropdown {
+        width: 170px !important
+    }
+}
+
+@media (max-width:479px) {
+    .doi_tac_gallery .gallery-item {
+        display: inline-flex !important;
+        width: 50% !important
+    }
+}
+
+.facetwp-facet {
+    margin-bottom: 10px !important
+}
+
+.fs-label-wrap {
+    position: relative;
+    background-color: #fff;
+    border: 2px solid #e21111 !important;
+    cursor: default;
+    border-radius: 7px
+}
+
+.fs-label {
+    font-weight: 500
+}
+
+.fs-label-wrap .fs-label {
+    text-align: center
+}
+
+.fs-dropdown {
+    border-radius: 7px;
+    border-color: #e21111 !important
+}
+
+.fs-option:hover {
+    background-color: #d8494954;
+    border-radius: 3px
+}
+
+.epyt-gallery {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto
+}
+
+.channel_social {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3.5%;
+    justify-content: center
+}
+
+.channel_social i,
+.channel_social svg {
+    width: 35px;
+    height: 40px;
+    line-height: 30px;
+    padding: 3px;
+    font-size: 20px;
+    vertical-align: middle;
+    fill: #fff;
+    text-align: center
+}
+
+.channel_social svg {
+    padding: 7px
+}
+
+.channel_social a {
+    width: 100%;
+    text-align: justify;
+    margin-bottom: 5px;
+    color: #fff;
+    transition: .3s
+}
+
+.channel_social i:hover,
+.channel_social svg:hover {
+    color: #fff;
+    fill: #fff
+}
+
+.channel_social a:hover {
+    transform: translateX(5px)
+}

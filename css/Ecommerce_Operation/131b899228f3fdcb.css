@@ -1,0 +1,2478 @@
+.componentShortVideo_wrapper__wwA90 {
+    display: flex;
+    width: 100%;
+    background-color: #f5f5f5
+}
+
+.componentShortVideo_titleContentShortVideoTikTok__UZxib {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.componentShortVideo_titleShortVideoTikTok__sIHcI {
+    width: 100%;
+    font-size: 2.375rem;
+    line-height: 2.875rem;
+    font-weight: 700;
+    color: #2b2b2b;
+    text-align: center;
+    padding: 2.25rem 0 0
+}
+
+.componentShortVideo_titleShortVideoTikTok__sIHcI h3 {
+    color: #ef5941;
+    font-size: 2.375rem;
+    line-height: 2.875rem;
+    font-weight: 700
+}
+
+.componentShortVideo_titleShortVideoTikTok__sIHcI p {
+    color: #2b2b2b;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400
+}
+
+.componentShortVideo_CSlider__OA6pM {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%
+}
+
+.componentShortVideo_CSliderVideo__uAfqT {
+    width: 100%;
+    height: 720px
+}
+
+.componentShortVideo_mainTikTokLivetream__glMC_ {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 36px 96px 36px 164px
+}
+
+.componentShortVideo_titleTikTokLivetream__KCtaL {
+    width: 100%;
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #2b2b2b;
+    text-align: center;
+    padding: 36px 68px 36px 0
+}
+
+.componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+    color: #ef5941;
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 700
+}
+
+.componentShortVideo_titleTikTokLivetream__KCtaL p {
+    color: #2b2b2b;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400
+}
+
+.componentShortVideo_contentTikTokLivetream__HgAR6 {
+    width: 100%;
+    padding-top: 36px
+}
+
+.componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+    display: flex;
+    width: 100%
+}
+
+.componentShortVideo_TikTokLivetreamDetail__g2n7n {
+    background-color: #ef5941;
+    margin: 0 24px 24px 0;
+    width: 50%;
+    border-radius: 20px;
+    overflow: hidden
+}
+
+.componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+    background-color: #2b2b2b;
+    margin-bottom: 24px;
+    width: 50%;
+    border-radius: 20px;
+    overflow: hidden
+}
+
+.componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+    background-color: #ef5941;
+    margin-right: 24px;
+    width: 50%;
+    border-radius: 20px;
+    overflow: hidden
+}
+
+.componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+    background-color: #2b2b2b;
+    width: 50%;
+    border-radius: 20px;
+    overflow: hidden
+}
+
+.componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+    padding: 16px 86px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    line-height: 28px
+}
+
+.componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+    width: 100%;
+    height: 296px;
+    overflow: hidden
+}
+
+.componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+    width: 100%
+}
+
+.componentShortVideo_mainStragetyDataMerge__JBEBf {
+    width: 100%;
+    background-color: #f5f5f5;
+    margin-bottom: 68px
+}
+
+.componentShortVideo_titleStragetyDataMerge__kNkzR {
+    width: 100%;
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #2b2b2b;
+    text-align: center;
+    padding: 36px 164px 0
+}
+
+.componentShortVideo_titleStragetyDataMerge__kNkzR h3 {
+    color: #ef5941;
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 700
+}
+
+.componentShortVideo_titleStragetyDataMerge__kNkzR p {
+    color: #2b2b2b;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400
+}
+
+.componentShortVideo_titleContentStragetyDataMerge__nieiu {
+    width: 100%
+}
+
+.componentShortVideo_maintainStragetyDataMerge__ohcBH {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #2b2b2b;
+    padding: 36px 96px 128px 164px
+}
+
+.componentShortVideo_maintainStragetyDataMergeSecond__REiK_ {
+    position: relative;
+    width: 100%;
+    padding-bottom: 68px
+}
+
+.componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 {
+    position: absolute;
+    margin-top: -148px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #2b2b2b;
+    padding: 148px 96px 36px 164px;
+    z-index: 1
+}
+
+.componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 p {
+    width: 64%;
+    color: #fff;
+    font-size: 38px;
+    line-height: 46px;
+    padding-right: 148px;
+    font-weight: 700
+}
+
+.componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 div {
+    display: flex;
+    width: 36%;
+    justify-content: right
+}
+
+.componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 button {
+    align-items: flex-end;
+    background-color: #ef5941;
+    padding: 12px 24px;
+    border-radius: 100px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #f5f5f5
+}
+
+.componentShortVideo_contentStragetyDataMergeDetail__Lm4mW {
+    width: 100%;
+    display: flex
+}
+
+.componentShortVideo_contentStragetyDataMergeDetailSecond__XT2i8 {
+    position: relative;
+    width: 100%;
+    display: flex;
+    z-index: 2
+}
+
+.componentShortVideo_maintainStragetyDataMerge__ohcBH p {
+    width: 64%;
+    color: #fff;
+    font-size: 38px;
+    line-height: 46px;
+    font-weight: 700
+}
+
+.componentShortVideo_maintainStragetyDataMerge__ohcBH div {
+    display: flex;
+    width: 36%;
+    justify-content: right
+}
+
+.componentShortVideo_maintainStragetyDataMerge__ohcBH button {
+    align-items: flex-end;
+    background-color: #ef5941;
+    padding: 12px 24px;
+    border-radius: 100px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #fff
+}
+
+.componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+    margin-top: -68px
+}
+
+.componentShortVideo_contentStragetyDataMergeDetailTopSecond__556iC,
+.componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 96px 36px 164px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+    background-color: #fff
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW,
+.componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+    position: relative;
+    width: 33.33%;
+    margin-right: 24px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT {
+    position: relative;
+    width: 33.33%;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW img,
+.componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT img,
+.componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ img {
+    width: 100%
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 76%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    color: #2b2b2b;
+    text-align: left;
+    padding: 0 96px 0 24px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div,
+.componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 16.4%;
+    left: 50%;
+    padding: 0 96px 0 24px;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    color: #2b2b2b;
+    text-align: left
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+.componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+.componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+.componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+.componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+    font-size: 12px;
+    line-height: 20px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 {
+    background-color: #fff
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1,
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr {
+    position: relative;
+    width: 33.33%;
+    margin-right: 24px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi {
+    position: relative;
+    width: 33.33%;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 img,
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr img,
+.componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi img {
+    width: 100%
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div {
+    top: 16.4%;
+    padding: 0 128px 0 24px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div,
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    color: #2b2b2b;
+    text-align: left
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+    top: 19.4%;
+    padding: 0 96px 0 24px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 82%;
+    left: 50%;
+    padding: 0 148px 0 24px;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    color: #2b2b2b;
+    text-align: left
+}
+
+.componentShortVideo_TablePriceOfShopeeLazadaComponent__H4qJQ {
+    background-color: #f5f5f5;
+    padding-top: 36px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+.componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px
+}
+
+.componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+.componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+.componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+    font-size: 16px;
+    line-height: 24px
+}
+
+@media only screen and (min-width:344px) and (max-width:600px) {
+    .componentShortVideo_titleShortVideoTikTok__sIHcI {
+        width: 100%;
+        font-size: 2.375rem;
+        line-height: 2.875rem;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 1.5rem 1rem 0
+    }
+    .componentShortVideo_titleShortVideoTikTok__sIHcI h3 {
+        color: #ef5941;
+        font-size: 1.25rem;
+        line-height: 1.75rem;
+        font-weight: 700
+    }
+    .componentShortVideo_titleShortVideoTikTok__sIHcI p {
+        color: #2b2b2b;
+        font-size: .75rem;
+        line-height: 1.25rem;
+        font-weight: 400
+    }
+    .componentShortVideo_mainTikTokLivetream__glMC_ {
+        width: 100%;
+        background-color: #f5f5f5;
+        padding: 16px
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 0
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+        color: #ef5941;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL p {
+        color: #2b2b2b;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 400;
+        padding: 0 0 1rem
+    }
+    .componentShortVideo_contentTikTokLivetream__HgAR6 {
+        width: 100%;
+        padding-top: 0
+    }
+    .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+        display: flex;
+        flex-direction: column;
+        width: 100%
+    }
+    .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+        background-color: #ef5941;
+        margin: 0 0 16px;
+        width: 100%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+        background-color: #2b2b2b;
+        margin: 0 0 16px;
+        width: 100%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+        background-color: #ef5941;
+        margin: 0 0 16px;
+        width: 100%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+        background-color: #2b2b2b;
+        width: 100%;
+        margin: 0 0 16px;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+        padding: 1rem;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 14px;
+        line-height: 22px
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+        width: 100%;
+        height: 186px
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover
+    }
+    .componentShortVideo_mainStragetyDataMerge__JBEBf {
+        width: 100%;
+        background-color: #f5f5f5
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 0 16px
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR h3 {
+        color: #ef5941;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR h2 {
+        color: #2b2b2b;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR p {
+        color: #2b2b2b;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 400;
+        padding: 0 48px 16px
+    }
+    .componentShortVideo_titleContentStragetyDataMerge__nieiu {
+        width: 100%
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background-color: #2b2b2b;
+        padding: 24px 16px 96px
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecond__REiK_ {
+        position: relative;
+        width: 100%;
+        padding-bottom: 68px
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 {
+        position: absolute;
+        margin-top: -148px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background-color: #2b2b2b;
+        padding: 148px 16px 36px;
+        z-index: 1
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 p {
+        width: 64%;
+        color: #fff;
+        font-size: 12px;
+        line-height: 20px;
+        padding-right: 4px;
+        font-weight: 700
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 div {
+        display: flex;
+        width: 36%;
+        justify-content: right
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 button {
+        align-items: flex-end;
+        background-color: #ef5941;
+        padding: 8px 24px;
+        border-radius: 100px;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 700;
+        color: #fff
+    }
+    .componentShortVideo_contentStragetyDataMergeDetail__Lm4mW {
+        width: 100%;
+        display: flex
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailSecond__XT2i8 {
+        position: relative;
+        width: 100%;
+        display: flex;
+        z-index: 2
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH p {
+        width: 72%;
+        color: #fff;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 700
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH div {
+        display: flex;
+        width: 28%;
+        justify-content: right
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH button {
+        align-items: flex-end;
+        background-color: #ef5941;
+        padding: 8px;
+        border-radius: 100px;
+        font-size: 10px;
+        line-height: 20px;
+        font-weight: 700
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+        margin-top: -68px
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailTopSecond__556iC,
+    .componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 16px 36px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+        background-color: #fff
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+        position: relative;
+        width: 33.33%;
+        margin-right: 16px;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT {
+        position: relative;
+        width: 33.33%;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ img {
+        width: 100%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 76%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left;
+        padding: 0 12px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 19.6%;
+        left: 50%;
+        padding: 0 12px;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+        font-size: 10px;
+        font-weight: 700;
+        line-height: 20px;
+        margin-bottom: 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+        display: none
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 {
+        background-color: #fff
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr {
+        position: relative;
+        width: 33.33%;
+        margin-right: 16px;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi {
+        position: relative;
+        width: 33.33%;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi img {
+        width: 100%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div {
+        top: 16.4%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left;
+        padding: 0 12px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+        top: 20%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 82%;
+        left: 50%;
+        padding: 0 12px;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_TablePriceOfShopeeLazadaComponent__H4qJQ {
+        background-color: #f5f5f5;
+        padding-top: 36px;
+        margin-top: -48px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+        font-size: 10px;
+        font-weight: 700;
+        line-height: 16px;
+        margin: 10px 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+        display: none
+    }
+    @media screen and (min-width:430px) {
+        .componentShortVideo_titleTikTokLivetream__KCtaL p {
+            color: #2b2b2b;
+            font-size: 12px;
+            line-height: 20px;
+            font-weight: 400;
+            padding: 0 2rem 1rem
+        }
+        .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+            padding: 1rem 4rem;
+            width: 100%;
+            text-align: center;
+            color: #fff;
+            font-size: 14px;
+            line-height: 22px
+        }
+    }
+}
+
+@media only screen and (min-width:601px) and (max-width:1180px) {
+    .componentShortVideo_mainTikTokLivetream__glMC_ {
+        width: 100%;
+        background-color: #f5f5f5;
+        padding: 36px 48px
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 36px 0
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+        color: #ef5941;
+        font-size: 1.875rem;
+        line-height: 2.375rem;
+        font-weight: 700
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL p {
+        color: #2b2b2b;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        font-weight: 400
+    }
+    .componentShortVideo_contentTikTokLivetream__HgAR6 {
+        width: 100%;
+        padding-top: 36px
+    }
+    .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+        display: flex;
+        width: 100%
+    }
+    .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+        background-color: #ef5941;
+        margin: 0 24px 24px 0;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+        background-color: #2b2b2b;
+        margin-bottom: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+        background-color: #ef5941;
+        margin-right: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+        background-color: #2b2b2b;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+        padding: 16px 48px;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        line-height: 28px
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+        width: 100%
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+        width: auto
+    }
+    .componentShortVideo_mainStragetyDataMerge__JBEBf {
+        width: 100%;
+        background-color: #f5f5f5
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 36px 68px 0
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR h3 {
+        color: #ef5941;
+        font-size: 38px;
+        line-height: 46px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR p {
+        color: #2b2b2b;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400
+    }
+    .componentShortVideo_titleContentStragetyDataMerge__nieiu {
+        width: 100%
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background-color: #2b2b2b;
+        padding: 36px 48px 128px
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecond__REiK_ {
+        position: relative;
+        width: 100%;
+        padding-bottom: 68px
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 {
+        position: absolute;
+        margin-top: -148px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background-color: #2b2b2b;
+        padding: 148px 48px 36px;
+        z-index: 1
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 p {
+        width: 64%;
+        color: #fff;
+        font-size: 38px;
+        line-height: 46px;
+        padding-right: 148px;
+        font-weight: 700
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 div {
+        display: flex;
+        width: 36%;
+        justify-content: right
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 button {
+        align-items: flex-end;
+        background-color: #ef5941;
+        padding: 12px 24px;
+        border-radius: 100px;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 700;
+        color: #fff
+    }
+    .componentShortVideo_contentStragetyDataMergeDetail__Lm4mW {
+        width: 100%;
+        display: flex
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailSecond__XT2i8 {
+        position: relative;
+        width: 100%;
+        display: flex;
+        z-index: 2
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH p {
+        width: 64%;
+        color: #fff;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 700
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH div {
+        display: flex;
+        width: 36%;
+        justify-content: right
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH button {
+        align-items: flex-end;
+        background-color: #ef5941;
+        padding: 12px 24px;
+        border-radius: 100px;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 700
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: -68px;
+        padding: 0 48px 36px
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailTopSecond__556iC {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 38px 36px 48px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+        background-color: #fff
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+        position: relative;
+        width: 33.33%;
+        margin-right: 24px;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT {
+        position: relative;
+        width: 33.33%;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ img {
+        width: 100%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 76%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left;
+        padding: 0 24px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 16.4%;
+        left: 50%;
+        padding: 28px 36px 0 24px;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 28px;
+        width: 100%;
+        padding-right: 4rem
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+        font-size: 12px;
+        line-height: 20px;
+        padding-right: 4rem
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 {
+        background-color: #fff
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr {
+        position: relative;
+        width: 33.33%;
+        margin-right: 24px;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi {
+        position: relative;
+        width: 33.33%;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi img {
+        width: 100%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div {
+        top: 16.4%;
+        padding: 0 128px 0 24px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+        top: 19.4%;
+        padding: 0 96px 0 24px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 82%;
+        left: 50%;
+        padding: 0 148px 0 24px;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_TablePriceOfShopeeLazadaComponent__H4qJQ {
+        background-color: #f5f5f5;
+        padding-top: 36px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 28px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+        font-size: 12px;
+        line-height: 20px
+    }
+    @media only screen and (min-width:820px) {
+        .componentShortVideo_mainTikTokLivetream__glMC_ {
+            width: 100%;
+            background-color: #f5f5f5;
+            padding: 36px 48px
+        }
+        .componentShortVideo_titleTikTokLivetream__KCtaL {
+            width: 100%;
+            font-size: 38px;
+            line-height: 48px;
+            font-weight: 700;
+            color: #2b2b2b;
+            text-align: center;
+            padding: 2.25rem 0 1rem
+        }
+        .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+            color: #ef5941;
+            font-size: 1.875rem;
+            line-height: 2.375rem;
+            font-weight: 700
+        }
+        .componentShortVideo_titleTikTokLivetream__KCtaL p {
+            color: #2b2b2b;
+            font-size: 1rem;
+            line-height: 1.5rem;
+            font-weight: 400
+        }
+        .componentShortVideo_contentTikTokLivetream__HgAR6 {
+            width: 100%;
+            padding-top: 36px
+        }
+        .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+            display: flex;
+            width: 100%
+        }
+        .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+            background-color: #ef5941;
+            margin: 0 24px 24px 0;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+            background-color: #2b2b2b;
+            margin-bottom: 24px;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+            background-color: #ef5941;
+            margin-right: 24px;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+            background-color: #2b2b2b;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+            padding: 16px 68px;
+            width: 100%;
+            text-align: center;
+            color: #fff;
+            font-size: 20px;
+            line-height: 28px
+        }
+        .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+            width: 100%
+        }
+        .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+            width: 100%;
+            height: 100%;
+            -o-object-fit: cover;
+            object-fit: cover
+        }
+        .componentShortVideo_mainStragetyDataMerge__JBEBf {
+            width: 100%;
+            background-color: #f5f5f5
+        }
+        .componentShortVideo_titleStragetyDataMerge__kNkzR {
+            width: 100%;
+            font-size: 38px;
+            line-height: 48px;
+            font-weight: 700;
+            color: #2b2b2b;
+            text-align: center;
+            padding: 36px 68px 0
+        }
+        .componentShortVideo_titleStragetyDataMerge__kNkzR h3 {
+            color: #ef5941;
+            font-size: 38px;
+            line-height: 46px;
+            font-weight: 700
+        }
+        .componentShortVideo_titleStragetyDataMerge__kNkzR p {
+            color: #2b2b2b;
+            font-size: 16px;
+            line-height: 24px;
+            font-weight: 400
+        }
+        .componentShortVideo_titleContentStragetyDataMerge__nieiu {
+            width: 100%
+        }
+        .componentShortVideo_maintainStragetyDataMerge__ohcBH {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            background-color: #2b2b2b;
+            padding: 36px 48px 128px
+        }
+        .componentShortVideo_maintainStragetyDataMergeSecond__REiK_ {
+            position: relative;
+            width: 100%;
+            padding-bottom: 68px
+        }
+        .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 {
+            position: absolute;
+            margin-top: -148px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            background-color: #2b2b2b;
+            padding: 148px 48px 36px;
+            z-index: 1
+        }
+        .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 p {
+            width: 64%;
+            color: #fff;
+            font-size: 38px;
+            line-height: 46px;
+            padding-right: 148px;
+            font-weight: 700
+        }
+        .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 div {
+            display: flex;
+            width: 36%;
+            justify-content: right
+        }
+        .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 button {
+            align-items: flex-end;
+            background-color: #ef5941;
+            padding: 12px 24px;
+            border-radius: 100px;
+            font-size: 16px;
+            line-height: 24px;
+            font-weight: 700;
+            color: #fff
+        }
+        .componentShortVideo_contentStragetyDataMergeDetail__Lm4mW {
+            width: 100%;
+            display: flex
+        }
+        .componentShortVideo_contentStragetyDataMergeDetailSecond__XT2i8 {
+            position: relative;
+            width: 100%;
+            display: flex;
+            z-index: 2
+        }
+        .componentShortVideo_maintainStragetyDataMerge__ohcBH p {
+            width: 64%;
+            color: #fff;
+            font-size: 20px;
+            line-height: 28px;
+            font-weight: 700
+        }
+        .componentShortVideo_maintainStragetyDataMerge__ohcBH div {
+            display: flex;
+            width: 36%;
+            justify-content: right
+        }
+        .componentShortVideo_maintainStragetyDataMerge__ohcBH button {
+            align-items: flex-end;
+            background-color: #ef5941;
+            padding: 12px 24px;
+            border-radius: 100px;
+            font-size: 12px;
+            line-height: 20px;
+            font-weight: 700
+        }
+        .componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: -68px;
+            padding: 0 48px 36px
+        }
+        .componentShortVideo_contentStragetyDataMergeDetailTopSecond__556iC {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0 38px 36px 48px
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+            background-color: #fff
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+            position: relative;
+            width: 33.33%;
+            margin-right: 24px;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT {
+            position: relative;
+            width: 33.33%;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW img,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT img,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ img {
+            width: 100%
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 76%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            text-align: center;
+            width: 100%;
+            color: #2b2b2b;
+            text-align: left;
+            padding: 0 24px
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 16.4%;
+            left: 50%;
+            padding: 28px 36px 0 24px;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            text-align: center;
+            width: 100%;
+            color: #2b2b2b;
+            text-align: left
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 28px;
+            width: 100%;
+            padding-right: 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+            font-size: 12px;
+            line-height: 20px;
+            padding-right: 3.65rem
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 {
+            background-color: #fff
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr {
+            position: relative;
+            width: 33.33%;
+            margin-right: 24px;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi {
+            position: relative;
+            width: 33.33%;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 img,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr img,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi img {
+            width: 100%
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div {
+            top: 16.4%;
+            padding: 24px 24px 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            text-align: center;
+            width: 100%;
+            color: #2b2b2b;
+            text-align: left
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+            top: 19.4%;
+            padding: 54px 24px 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 82%;
+            left: 50%;
+            padding: 24px;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            text-align: center;
+            width: 100%;
+            color: #2b2b2b;
+            text-align: left
+        }
+        .componentShortVideo_TablePriceOfShopeeLazadaComponent__H4qJQ {
+            background-color: #f5f5f5;
+            padding-top: 36px
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 28px;
+            width: 100%;
+            padding-right: 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+            font-size: 12px;
+            line-height: 20px;
+            padding-right: 3.65rem
+        }
+    }
+    @media only screen and (min-width:1024px) {
+        .componentShortVideo_mainTikTokLivetream__glMC_ {
+            width: 100%;
+            background-color: #f5f5f5;
+            padding: 36px 48px
+        }
+        .componentShortVideo_titleTikTokLivetream__KCtaL {
+            width: 100%;
+            font-size: 38px;
+            line-height: 48px;
+            font-weight: 700;
+            color: #2b2b2b;
+            text-align: center;
+            padding: 2.25rem 0 1rem
+        }
+        .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+            color: #ef5941;
+            font-size: 1.875rem;
+            line-height: 2.375rem;
+            font-weight: 700
+        }
+        .componentShortVideo_titleTikTokLivetream__KCtaL p {
+            color: #2b2b2b;
+            font-size: 1rem;
+            line-height: 1.5rem;
+            font-weight: 400
+        }
+        .componentShortVideo_contentTikTokLivetream__HgAR6 {
+            width: 100%;
+            padding-top: 36px
+        }
+        .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+            display: flex;
+            width: 100%
+        }
+        .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+            background-color: #ef5941;
+            margin: 0 24px 24px 0;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+            background-color: #2b2b2b;
+            margin-bottom: 24px;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+            background-color: #ef5941;
+            margin-right: 24px;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+            background-color: #2b2b2b;
+            width: 50%;
+            border-radius: 20px;
+            overflow: hidden
+        }
+        .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+            padding: 16px 68px;
+            width: 100%;
+            text-align: center;
+            color: #fff;
+            font-size: 20px;
+            line-height: 28px
+        }
+        .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+            width: 100%
+        }
+        .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+            width: 100%;
+            height: 100%;
+            -o-object-fit: cover;
+            object-fit: cover
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 28px;
+            width: 100%;
+            padding-right: 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+            font-size: 12px;
+            line-height: 20px;
+            padding-right: 3.65rem
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 {
+            background-color: #fff
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr {
+            position: relative;
+            width: 33.33%;
+            margin-right: 24px;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi {
+            position: relative;
+            width: 33.33%;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 img,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr img,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi img {
+            width: 100%
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div {
+            top: 16.4%;
+            padding: 24px 24px 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            text-align: center;
+            width: 100%;
+            color: #2b2b2b;
+            text-align: left
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+            top: 19.4%;
+            padding: 54px 24px 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 82%;
+            left: 50%;
+            padding: 24px;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            text-align: center;
+            width: 100%;
+            color: #2b2b2b;
+            text-align: left
+        }
+        .componentShortVideo_TablePriceOfShopeeLazadaComponent__H4qJQ {
+            background-color: #f5f5f5;
+            padding-top: 36px
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 28px;
+            width: 100%;
+            padding-right: 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+            font-size: 12px;
+            line-height: 20px;
+            padding-right: 3.65rem
+        }
+    }
+}
+
+@media only screen and (min-width:1280px) and (max-width:1325px) {
+    .componentShortVideo_mainTikTokLivetream__glMC_ {
+        width: 100%;
+        background-color: #f5f5f5;
+        padding: 36px 96px 36px 164px
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 36px 68px 36px 0
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+        color: #ef5941;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL p {
+        color: #2b2b2b;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 400
+    }
+    .componentShortVideo_contentTikTokLivetream__HgAR6 {
+        width: 100%;
+        padding-top: 36px
+    }
+    .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+        display: flex;
+        width: 100%
+    }
+    .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+        background-color: #ef5941;
+        margin: 0 24px 24px 0;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+        background-color: #2b2b2b;
+        margin-bottom: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+        background-color: #ef5941;
+        margin-right: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+        background-color: #2b2b2b;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+        padding: 16px 86px;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        line-height: 28px
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+        width: 100%;
+        height: 296px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover
+    }
+    .componentShortVideo_mainStragetyDataMerge__JBEBf {
+        width: 100%;
+        background-color: #f5f5f5
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 36px 164px 0
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR h3 {
+        color: #ef5941;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleStragetyDataMerge__kNkzR p {
+        color: #2b2b2b;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 400
+    }
+    .componentShortVideo_titleContentStragetyDataMerge__nieiu {
+        width: 100%
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background-color: #2b2b2b;
+        padding: 36px 96px 128px 164px
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecond__REiK_ {
+        position: relative;
+        width: 100%;
+        padding-bottom: 68px
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 {
+        position: absolute;
+        margin-top: -148px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background-color: #2b2b2b;
+        padding: 148px 96px 36px 164px;
+        z-index: 1
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 p {
+        width: 64%;
+        color: #fff;
+        font-size: 38px;
+        line-height: 46px;
+        padding-right: 148px;
+        font-weight: 700
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 div {
+        display: flex;
+        width: 36%;
+        justify-content: right
+    }
+    .componentShortVideo_maintainStragetyDataMergeSecondDetail__akfK2 button {
+        align-items: flex-end;
+        background-color: #ef5941;
+        padding: 12px 24px;
+        border-radius: 100px;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 700;
+        color: #f5f5f5
+    }
+    .componentShortVideo_contentStragetyDataMergeDetail__Lm4mW {
+        width: 100%;
+        display: flex
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailSecond__XT2i8 {
+        position: relative;
+        width: 100%;
+        display: flex;
+        z-index: 2
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH p {
+        width: 64%;
+        color: #fff;
+        font-size: 30px;
+        line-height: 38px;
+        font-weight: 700
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH div {
+        display: flex;
+        width: 36%;
+        justify-content: right
+    }
+    .componentShortVideo_maintainStragetyDataMerge__ohcBH button {
+        align-items: flex-end;
+        background-color: #ef5941;
+        padding: 12px 24px;
+        border-radius: 100px;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 700;
+        color: #fff
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+        margin-top: -68px
+    }
+    .componentShortVideo_contentStragetyDataMergeDetailTopSecond__556iC,
+    .componentShortVideo_contentStragetyDataMergeDetailTop__cM5C0 {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 96px 36px 164px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+        background-color: #fff
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ {
+        position: relative;
+        width: 33.33%;
+        margin-right: 24px;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT {
+        position: relative;
+        width: 33.33%;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ img {
+        width: 100%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 76%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left;
+        padding: 0 96px 0 24px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 16.4%;
+        left: 50%;
+        padding: 0 96px 0 24px;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+        font-size: 16px;
+        line-height: 24px;
+        padding-right: 48px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 {
+        background-color: #fff
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr {
+        position: relative;
+        width: 33.33%;
+        margin-right: 24px;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi {
+        position: relative;
+        width: 33.33%;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 12px 36px rgba(43, 43, 43, .12)
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr img,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi img {
+        width: 100%
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div {
+        top: 16.4%;
+        padding: 0 128px 0 24px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div {
+        top: 19.4%;
+        padding: 0 96px 0 24px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 82%;
+        left: 50%;
+        padding: 0 96px 0 24px;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        color: #2b2b2b;
+        text-align: left
+    }
+    .componentShortVideo_TablePriceOfShopeeLazadaComponent__H4qJQ {
+        background-color: #f5f5f5;
+        padding-top: 36px
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+        font-size: 1.875rem;
+        font-weight: 700;
+        line-height: 2.375rem
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+        font-size: 16px;
+        line-height: 24px
+    }
+}
+
+@media only screen and (min-width:1326px) and (max-width:1600px) {
+    .componentShortVideo_mainTikTokLivetream__glMC_ {
+        width: 100%;
+        background-color: #f5f5f5;
+        padding: 36px 96px 36px 164px
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 36px 68px 36px 0
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+        color: #ef5941;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL p {
+        color: #2b2b2b;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 400
+    }
+    .componentShortVideo_contentTikTokLivetream__HgAR6 {
+        width: 100%;
+        padding-top: 36px
+    }
+    .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+        display: flex;
+        width: 100%
+    }
+    .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+        background-color: #ef5941;
+        margin: 0 24px 24px 0;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+        background-color: #2b2b2b;
+        margin-bottom: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+        background-color: #ef5941;
+        margin-right: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+        background-color: #2b2b2b;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+        padding: 16px 86px;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        line-height: 28px
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+        width: 100%;
+        height: 296px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        padding: 2rem 2rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+        font-size: 20px;
+        line-height: 28px;
+        padding: .5rem 2rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        padding: 2rem 2rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+        font-size: 20px;
+        line-height: 28px;
+        padding: .5rem 2rem 0 0
+    }
+    @media only screen and (min-width:1520px) {
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 34px;
+            padding: 2rem 2rem 0 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+            font-size: 22px;
+            line-height: 26px;
+            padding: .5rem 4rem 0 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 34px;
+            padding: 2rem 2rem 0 0
+        }
+        .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+        .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+            font-size: 22px;
+            line-height: 26px;
+            padding: .5rem 4rem 0 0
+        }
+    }
+}
+
+@media only screen and (min-width:1601px) and (max-width:1880px) {
+    .componentShortVideo_mainTikTokLivetream__glMC_ {
+        width: 100%;
+        background-color: #f5f5f5;
+        padding: 36px 96px 36px 164px
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 36px 68px 36px 0
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+        color: #ef5941;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL p {
+        color: #2b2b2b;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 400
+    }
+    .componentShortVideo_contentTikTokLivetream__HgAR6 {
+        width: 100%;
+        padding-top: 36px
+    }
+    .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+        display: flex;
+        width: 100%
+    }
+    .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+        background-color: #ef5941;
+        margin: 0 24px 24px 0;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+        background-color: #2b2b2b;
+        margin-bottom: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+        background-color: #ef5941;
+        margin-right: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+        background-color: #2b2b2b;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+        padding: 16px 86px;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        line-height: 28px
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+        width: 100%;
+        height: 296px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 38px;
+        padding: 0 10rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+        font-size: 20px;
+        line-height: 28px;
+        padding: .5rem 5rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 38px;
+        padding: 0 10rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+        font-size: 20px;
+        line-height: 28px;
+        padding: .5rem 5rem 0 0
+    }
+}
+
+@media only screen and (min-width:1920px) {
+    .componentShortVideo_mainTikTokLivetream__glMC_ {
+        width: 100%;
+        background-color: #f5f5f5;
+        padding: 36px 96px 36px 164px
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 36px 68px 36px 0
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL h3 {
+        color: #ef5941;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL p {
+        color: #2b2b2b;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 400
+    }
+    .componentShortVideo_contentTikTokLivetream__HgAR6 {
+        width: 100%;
+        padding-top: 36px
+    }
+    .componentShortVideo_contentTikTokLivetreamDetail__yqY_X {
+        display: flex;
+        width: 100%
+    }
+    .componentShortVideo_TikTokLivetreamDetail__g2n7n {
+        background-color: #ef5941;
+        margin: 0 24px 24px 0;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailSecond__6eKUC {
+        background-color: #2b2b2b;
+        margin-bottom: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailThird__hCBxE {
+        background-color: #ef5941;
+        margin-right: 24px;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailFour__Y3GW4 {
+        background-color: #2b2b2b;
+        width: 50%;
+        border-radius: 20px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailText__dVQe5 {
+        padding: 16px 86px;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        line-height: 28px
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM {
+        width: 100%;
+        height: 296px;
+        overflow: hidden
+    }
+    .componentShortVideo_TikTokLivetreamDetailImg__EDzYM img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+        font-size: 38px;
+        font-weight: 700;
+        line-height: 46px;
+        padding: 0 10rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+        font-size: 30px;
+        line-height: 38px;
+        padding: .5rem 8rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+        font-size: 38px;
+        font-weight: 700;
+        line-height: 46px;
+        padding: 0 4rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+        font-size: 30px;
+        line-height: 38px;
+        padding: .5rem 8rem 0 0
+    }
+}
+
+@media only screen and (min-width:2048px) and (max-width:4000px) {
+    .componentShortVideo_CSliderVideo__uAfqT {
+        width: 80%;
+        height: 720px
+    }
+    .componentShortVideo_mainTikTokLivetream__glMC_,
+    .componentShortVideo_titleContentStragetyDataMerge__nieiu,
+    .componentShortVideo_wrapper__wwA90 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
+    .componentShortVideo_contentTikTokLivetream__HgAR6,
+    .componentShortVideo_titleContentShortVideoTikTok__UZxib,
+    .componentShortVideo_titleStragetyDataMerge__kNkzR {
+        width: 80%
+    }
+    .componentShortVideo_titleTikTokLivetream__KCtaL {
+        width: 100%;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+        color: #2b2b2b;
+        text-align: center;
+        padding: 2.25rem 6rem
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div p {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        padding: 0 10rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecond__gSREW div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThird__ZLTjT div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetail__ngBp_ div span {
+        font-size: 16px;
+        line-height: 24px;
+        padding: .5rem 8rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div p,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div p {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        padding: 0 10rem 0 0
+    }
+    .componentShortVideo_StragetyDataMergeDetailTopDetailBottom__ym3I1 div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailSecondBottom__betRr div span,
+    .componentShortVideo_StragetyDataMergeDetailTopDetailThirdBottom__6fJyi div span {
+        font-size: 16px;
+        line-height: 24px;
+        padding: .5rem 8rem 0 0
+    }
+    @media only screen and (min-width:2560px) {
+        .componentShortVideo_CSliderVideo__uAfqT {
+            width: 75%;
+            height: 720px
+        }
+        .componentShortVideo_titleContentShortVideoTikTok__UZxib {
+            width: 75%
+        }
+    }
+}
